@@ -1,0 +1,1278 @@
+,name,mission_title,hours_mission,decade_of_mission,year_of_mission,sex,year_of_birth,nationality,total_number_of_missions,total_hrs_sum
+0,"Gagarin, Yuri",Vostok 1,1.77,1960,1961,male,1934,U.S.S.R/Russia,1,1.77
+1,"Titov, Gherman",Vostok 2,25.0,1960,1961,male,1935,U.S.S.R/Russia,1,25.3
+2,"Glenn, John H., Jr.",MA-6,5.0,1960,1962,male,1921,U.S.,2,218.0
+3,"Glenn, John H., Jr.",STS-95,213.0,1990,1998,male,1921,U.S.,2,218.0
+4,"Carpenter, M. Scott",Mercury-Atlas 7,5.0,1960,1962,male,1925,U.S.,1,5.0
+5,"Nikolayev, Andriyan",Vostok 3,94.0,1960,1962,male,1929,U.S.S.R/Russia,2,519.33
+6,"Nikolayev, Andriyan",Soyuz 9,424.0,1970,1970,male,1929,U.S.S.R/Russia,2,519.33
+7,"Popovich, Pavel",Vostok 4,70.93,1960,1962,male,1930,U.S.S.R/Russia,2,448.45
+8,"Popovich, Pavel",Soyuz 14,377.0,1970,1974,male,1930,U.S.S.R/Russia,2,448.45
+9,"Schirra, Walter M., Jr.",Mercury-Atlas 8,9.22,1960,1962,male,1923,U.S.,3,295.2
+10,"Schirra, Walter M., Jr.",Gemini 6A,25.87,1960,1965,male,1923,U.S.,3,295.2
+11,"Schirra, Walter M., Jr.",Apollo 7,260.13,1960,1968,male,1923,U.S.,3,295.2
+12,"Cooper, L. Gordon, Jr.",Mercury-Atlas 9,34.32,1960,1963,male,1927,U.S.,2,225.0
+13,"Cooper, L. Gordon, Jr.",Gemini 5,191.92,1960,1965,male,1927,U.S.,2,225.0
+14,"Bykovsky, Valery",Vostok 5,119.13,1960,1963,male,1934,U.S.S.R/Russia,3,497.8
+15,"Bykovsky, Valery",Soyuz 22,189.0,1970,1976,male,1934,U.S.S.R/Russia,3,497.8
+16,"Bykovsky, Valery",Soyuz 31/29,188.0,1970,1978,male,1934,U.S.S.R/Russia,3,497.8
+17,"Tereshkova, Valentina",Vostok 6,70.83,1960,1963,female,1937,U.S.S.R/Russia,1,70.83
+18,"Komarov, Vladimir",Voskhod 1,24.28,1960,1964,male,1927,U.S.S.R/Russia,2,51.07
+19,"Komarov, Vladimir",Soyuz 1,26.78,1960,1967,male,1927,U.S.S.R/Russia,2,51.07
+20,"Feoktistov, Konstantin",Voskhod 1,24.28,1960,1964,male,1926,U.S.S.R/Russia,1,24.28
+21,"Yegorov, Boris",Voskhod 1,24.28,1960,1964,male,1937,U.S.S.R/Russia,1,24.28
+22,"Belyayev, Pavel",Voskhod 2,26.03,1960,1965,male,1925,U.S.S.R/Russia,1,26.03
+23,"Leonov, Aleksei",Voskhod 2,26.03,1960,1965,male,1934,U.S.S.R/Russia,2,168.53
+24,"Leonov, Aleksei",Soyuz 19,142.0,1970,1975,male,1934,U.S.S.R/Russia,2,168.53
+25,"Grissom, Virgil I.",Gemini 3,4.86,1960,1965,male,1926,U.S.,1,4.86
+26,"Young, John W.",Gemini 3,4.86,1960,1965,male,1930,U.S.,6,835.65
+27,"Young, John W.",Gemini 10,70.77,1960,1966,male,1930,U.S.,6,835.65
+28,"Young, John W.",Apollo 10,192.05,1960,1969,male,1930,U.S.,6,835.65
+29,"Young, John W.",Apollo 16,265.85,1970,1972,male,1930,U.S.,6,835.65
+30,"Young, John W.",STS-1,54.5,1980,1981,male,1930,U.S.,6,835.65
+31,"Young, John W.",STS-9,240.0,1980,1983,male,1930,U.S.,6,835.65
+32,"McDivitt, James A.",Gemini 4,97.0,1960,1965,male,1929,U.S.,2,338.0
+33,"McDivitt, James A.",Apollo 9,241.0,1960,1969,male,1929,U.S.,2,338.0
+34,"White, Edward H., II",Gemini 4,97.93,1960,1965,male,1930,U.S.,1,97.93
+35,"Conrad, Charles, Jr.",Gemini 5,191.0,1960,1965,male,1930,U.S.,4,1179.0
+36,"Conrad, Charles, Jr.",Gemini 11,71.0,1960,1966,male,1930,U.S.,4,1179.0
+37,"Conrad, Charles, Jr.",Apollo 12,244.0,1960,1969,male,1930,U.S.,4,1179.0
+38,"Conrad, Charles, Jr.",Skylab 2,673.0,1970,1973,male,1930,U.S.,4,1179.0
+39,"Borman, Frank",Gemini 7,330.58,1960,1965,male,1928,U.S.,2,477.0
+40,"Borman, Frank",Apollo 8,147.0,1960,1968,male,1928,U.S.,2,477.0
+41,"Lovell, James A., Jr.",Gemini 7,330.58,1960,1965,male,1928,U.S.,4,715.05
+42,"Lovell, James A., Jr.",Gemini 12,94.0,1960,1966,male,1928,U.S.,4,715.05
+43,"Lovell, James A., Jr.",Apollo 8,147.0,1960,1968,male,1928,U.S.,4,715.05
+44,"Lovell, James A., Jr.",Apollo 13,142.0,1970,1970,male,1928,U.S.,4,715.05
+45,"Stafford, Thomas P.",gemini 6A,25.86,1960,1965,male,1930,U.S.,4,508.0
+46,"Stafford, Thomas P.",Gemini 9A,72.0,1960,1966,male,1930,U.S.,4,508.0
+47,"Stafford, Thomas P.",Apollo 10,192.0,1960,1969,male,1930,U.S.,4,508.0
+48,"Stafford, Thomas P.",ASTP,217.0,1970,1975,male,1930,U.S.,4,508.0
+49,"Armstrong, Neil A.",Gemini 8,11.0,1960,1966,male,1930,U.S.,2,206.0
+50,"Armstrong, Neil A.",Apollo 11,195.0,1960,1969,male,1930,U.S.,2,206.0
+51,"Scott, David R.",Gemini 8,240.68,1960,1966,male,1932,U.S.,3,546.0
+52,"Scott, David R.",Apollo 9,241.0,1960,1969,male,1932,U.S.,3,546.0
+53,"Scott, David R.",Apollo 15,312.0,1970,1971,male,1932,U.S.,3,546.0
+54,"Cernan, Eugene A.",Gemini 9A,72.0,1960,1966,male,1934,U.S.,3,565.0
+55,"Cernan, Eugene A.",Apollo 10,192.05,1960,1969,male,1934,U.S.,3,565.0
+56,"Cernan, Eugene A.",Apollo 17,302.0,1970,1972,male,1934,U.S.,3,565.0
+57,"Collins, Michael",Gemini 10,71.0,1960,1966,male,1930,U.S.,2,266.0
+58,"Collins, Michael",Apollo 11,195.0,1960,1969,male,1930,U.S.,2,266.0
+59,"Gordon, Richard F., Jr.",Gemini 11,71.28,1960,1966,male,1929,U.S.,2,315.88
+60,"Gordon, Richard F., Jr.",Apollo 12,244.6,1960,1969,male,1929,U.S.,2,315.88
+61,"Aldrin, Edwin Eugene, Jr.",Gemini 12,94.58,1960,1966,male,1930,U.S.,2,289.0
+62,"Aldrin, Edwin Eugene, Jr.",Apollo 11,195.0,1960,1969,male,1930,U.S.,2,289.0
+63,"Eisele, Donn F.",Apollo 7,260.13,1960,1968,male,1930,U.S.,1,260.0
+64,"Cunningham, Ronnie Walter",Apollo 7,260.13,1960,1968,male,1932,U.S.,1,260.13
+65,"Savinykh, Viktor",Salyut 7,4035.0,1980,1985,male,1940,U.S.S.R/Russia,3,6065.63
+66,"Savinykh, Viktor",2,236.0,1980,1988,male,1940,U.S.S.R/Russia,3,6065.63
+67,Jugderdemidiin Gurragchaa,Soyuz 39,188.7,1980,1981,male,1947,Mongolia,1,188.7
+68,"Crippen, Robert L.",STS-1,54.0,1980,1981,male,1937,U.S.,4,565.0
+69,"Crippen, Robert L.",STS-7,146.0,1980,1983,male,1937,U.S.,4,565.0
+70,"Crippen, Robert L.",STS-41-C,168.0,1980,1984,male,1937,U.S.,4,565.0
+71,"Crippen, Robert L.",STS-41-G,197.0,1980,1984,male,1937,U.S.,4,565.0
+72,Dumitru Prunariu,Soyuz 40,188.7,1980,1981,male,1952,Romania,1,188.7
+73,"Engle, Joe H.",STS-2,30.0,1980,1981,male,1932,U.S.,2,224.0
+74,"Engle, Joe H.",STS-51-I,170.0,1980,1985,male,1932,U.S.,2,224.0
+75,"Truly, Richard H.",STS-2,54.21,1980,1981,male,1937,U.S.,2,199.34
+76,"Truly, Richard H.",STS-8,145.13,1980,1983,male,1937,U.S.,2,199.34
+77,"Fullerton, Charles G.",STS-3,192.0,1980,1982,male,1936,U.S.,2,382.0
+78,"Fullerton, Charles G.",STS-51-F,190.0,1980,1985,male,1936,U.S.,2,382.0
+79,"Berezovoy, Anatoly",Salyut 7,5073.0,1980,1982,male,1942,U.S.S.R/Russia,1,5073.07
+80,"Chrétien, Jean-Loup",Salyut 7,190.0,1980,1982,male,1938,France,3,1043.32
+81,"Chrétien, Jean-Loup",Mir Aragatz,594.0,1980,1988,male,1938,France,3,1043.32
+82,"Chrétien, Jean-Loup",STS-86,259.3,1990,1997,male,1938,France,3,1043.32
+83,"Hartsfield, Henry W., Jr.",STS-4,169.0,1980,1982,male,1933,U.S.,3,481.0
+84,"Hartsfield, Henry W., Jr.",STS-41-D,144.0,1980,1984,male,1933,U.S.,3,481.0
+85,"Hartsfield, Henry W., Jr.",STS-61-A,168.0,1980,1985,male,1933,U.S.,3,481.0
+86,"Serebrov, Aleksandr",Salyut 7,189.0,1980,1982,male,1944,U.S.S.R/Russia,4,8950.87
+87,"Beregovoi, Georgi",Soyuz 3,94.83,1960,1968,male,1921,U.S.S.R/Russia,1,94.83
+88,"Anders, William Alison",Apollo 8,147.0,1960,1968,male,1933,U.S.,1,147.0
+89,"Shatalov, Vladimir",Soyuz 4,71.33,1960,1969,male,1927,U.S.S.R/Russia,3,237.92
+90,"Shatalov, Vladimir",Soyuz 8,118.0,1960,1969,male,1927,U.S.S.R/Russia,3,237.92
+91,"Shatalov, Vladimir",Soyuz 10,47.0,1970,1971,male,1927,U.S.S.R/Russia,3,237.92
+92,"Volynov, Boris",Soyuz 5,72.0,1960,1969,male,1934,U.S.S.R/Russia,2,1255.28
+93,"Volynov, Boris",Soyuz 21,1182.0,1970,1976,male,1934,U.S.S.R/Russia,2,1255.28
+94,"Yeliseyev, Aleksei",Soyuz 5/4,47.0,1960,1969,male,1934,U.S.S.R/Russia,3,214.33
+95,"Yeliseyev, Aleksei",Soyuz 8,118.0,1960,1969,male,1934,U.S.S.R/Russia,3,214.33
+96,"Yeliseyev, Aleksei",Soyuz 10,47.0,1970,1971,male,1934,U.S.S.R/Russia,3,214.33
+97,"Khrunov, Yevgeny",Soyuz 5/4,48.17,1960,1969,male,1933,U.S.S.R/Russia,1,47.75
+98,"Schweickart, Russell L.",apollo 9,241.0,1960,1969,male,1935,U.S.,1,241.0
+99,"Shonin, Georgi",Soyuz 6,118.0,1960,1969,male,1935,U.S.S.R/Russia,1,118.7
+100,"Kubasov, Valeri",Soyuz 6,118.0,1960,1969,male,1935,U.S.S.R/Russia,3,449.95
+101,"Kubasov, Valeri",Soyuz 19,142.0,1970,1975,male,1935,U.S.S.R/Russia,3,449.95
+102,"Kubasov, Valeri",Soyuz 36/35,188.0,1980,1980,male,1935,U.S.S.R/Russia,3,449.95
+103,"Filipchenko, Anatoly",Soyuz 7,118.0,1960,1969,male,1928,U.S.S.R/Russia,2,261.05
+104,"Filipchenko, Anatoly",Soyuz 16,142.0,1970,1974,male,1928,U.S.S.R/Russia,2,261.05
+105,"Volkov, Vladislav",Soyuz 7,118.0,1960,1969,male,1935,U.S.S.R/Russia,2,689.02
+106,"Volkov, Vladislav",Soyuz 11,570.0,1970,1971,male,1935,U.S.S.R/Russia,2,689.02
+107,"Gorbatko, Viktor",Soyuz 7,118.0,1960,1969,male,1934,U.S.S.R/Russia,3,732.78
+108,"Gorbatko, Viktor",Soyuz 24,425.0,1970,1977,male,1934,U.S.S.R/Russia,3,732.78
+109,"Gorbatko, Viktor",Soyuz 37/36,188.0,1980,1980,male,1934,U.S.S.R/Russia,3,732.78
+110,"Bean, Alan Lavern",Apollo 12,244.81,1960,1969,male,1932,U.S.,2,1671.75
+111,"Bean, Alan Lavern",Skylab 3,1427.23,1970,1973,male,1932,U.S.,2,1671.75
+112,"Swigert, John L., Jr.",Apollo 13,142.0,1970,1970,male,1931,U.S.,1,142.0
+113,"Haise, Fred W., Jr.",Apollo 13,142.0,1970,1970,male,1933,U.S.,1,142.0
+114,"Sevastyanov, Vitali",Soyuz 9,424.0,1970,1970,male,1935,U.S.S.R/Russia,2,1936.3
+115,"Sevastyanov, Vitali",Soyuz 18,1511.0,1970,1975,male,1935,U.S.S.R/Russia,2,1936.3
+116,"Shepard, Alan B., Jr.",Apollo 14,216.0,1970,1971,male,1923,U.S.,2,216.25
+117,"Roosa, Stuart A.",Apollo 14,216.0,1970,1971,male,1933,U.S.,1,216.0
+118,"Mitchell, Edgar D.",Apollo 14,216.0,1970,1971,male,1930,U.S.,1,216.0
+119,"Rukavishnikov, Nikolai",Soyuz 10,47.0,1970,1971,male,1932,U.S.S.R/Russia,3,237.15
+120,"Rukavishnikov, Nikolai",Soyuz 16,142.0,1970,1974,male,1932,U.S.S.R/Russia,3,237.15
+121,"Rukavishnikov, Nikolai",Soyuz 33,47.0,1970,1979,male,1932,U.S.S.R/Russia,3,237.15
+122,"Dobrovolski, Georgi",Soyuz 11,570.0,1970,1971,male,1928,U.S.S.R/Russia,1,570.35
+123,"Patsayev, Viktor",Soyuz 11,570.0,1970,1971,male,1933,U.S.S.R/Russia,1,570.35
+124,"Worden, Alfred M.",Apollo 15,295.2,1970,1971,male,1932,U.S.,1,295.2
+125,"Irwin, James B.",Apollo 15,295.0,1970,1971,male,1930,U.S.,1,295.0
+126,"Mattingly, Thomas K., II",Apollo 16,266.0,1970,1972,male,1936,U.S.,3,508.0
+127,"Mattingly, Thomas K., II",STS-4,169.0,1980,1982,male,1936,U.S.,3,508.0
+128,"Mattingly, Thomas K., II",STS-151-C,73.0,1980,1985,male,1936,U.S.,3,508.0
+129,"Duke, Jr. Charles Moss",Apollo 16,265.0,1970,1972,male,1935,U.S.,1,265.0
+130,"Evans, Ronald E.",Apollo 17,301.0,1970,1972,male,1933,U.S.,1,301.0
+131,"Schmitt, Harrison H.",Apollo 17,301.0,1970,1972,male,1935,U.S.,1,301.0
+132,"Weitz, Paul J.",Skylab-2,267.0,1970,1973,male,1932,U.S.,2,793.22
+133,"Weitz, Paul J.",STS-6,120.0,1980,1983,male,1932,U.S.,2,793.22
+134,"Kerwin, Joseph P.",Skylab 2,672.0,1970,1973,male,1932,U.S.,1,672.0
+135,"Lousma, Jack R.",Skylab 3,1427.0,1970,1973,male,1936,U.S.,2,1619.0
+136,"Lousma, Jack R.",STS-3,192.0,1980,1982,male,1936,U.S.,2,1619.0
+137,"Garriott, Owen K.",Skylab 3,1427.0,1970,1973,male,1930,U.S.,2,1674.0
+138,"Garriott, Owen K.",STS-9,247.0,1980,1983,male,1930,U.S.,2,1674.0
+139,"Lazarev, Vasili",Soyuz 12,47.0,1970,1973,male,1928,U.S.S.R/Russia,1,47.25
+140,"Makarov, Oleg",Soyuz 12,47.0,1970,1973,male,1933,U.S.S.R/Russia,3,497.33
+141,"Makarov, Oleg",Soyuz 27/26,142.0,1970,1978,male,1933,U.S.S.R/Russia,3,497.33
+142,"Makarov, Oleg",Soyuz T­3,307.0,1980,1980,male,1933,U.S.S.R/Russia,3,497.33
+143,"Carr, Gerald P.",Skylab 4,2017.0,1970,1974,male,1932,U.S.,1,2017.0
+144,"Pogue, William R.",Skylab 4,2017.0,1970,1973,male,1930,U.S.,1,2017.0
+145,"Gibson, Edward G.",Skylab 4,2017.0,1970,1973,male,1936,U.S.,1,2017.0
+146,"Klimuk, Pyotr",Soyuz 13,188.0,1970,1973,male,1942,U.S.S.R/Russia,3,1890.28
+147,"Klimuk, Pyotr",Saluyt 4,1511.0,1970,1975,male,1942,U.S.S.R/Russia,3,1890.28
+148,"Klimuk, Pyotr",Saluyt 6,190.0,1970,1978,male,1942,U.S.S.R/Russia,3,1890.28
+149,"Lebedev, Valentin",Soyuz 13,188.0,1970,1973,male,1942,U.S.S.R/Russia,2,5261.98
+150,"Lebedev, Valentin",Salyut 7,5313.0,1980,1982,male,1942,U.S.S.R/Russia,2,5261.98
+151,"Artyukhin, Yuri",Soyuz 14,377.0,1970,1974,male,1930,U.S.S.R/Russia,1,377.5
+152,"Sarafanov, Gennadi",Soyuz 15,48.0,1970,1974,male,1942,U.S.S.R/Russia,1,48.2
+153,"Dyomin, Lev",Soyuz 15,48.0,1970,1974,male,1926,U.S.S.R/Russia,1,48.2
+154,"Gubarev, Aleksei",Salyut 4,709.0,1970,1975,male,1931,U.S.S.R/Russia,2,899.6
+155,"Gubarev, Aleksei",Salyut 6,190.0,1970,1978,male,1931,U.S.S.R/Russia,2,899.6
+156,"Grechko, Georgi",Salyut 4,709.0,1970,1975,male,1931,U.S.S.R/Russia,3,3236.53
+157,"Grechko, Georgi",Salyut 6,2314.0,1970,1977,male,1931,U.S.S.R/Russia,3,3236.53
+158,"Grechko, Georgi",Soyuz 7,213.0,1980,1985,male,1931,U.S.S.R/Russia,3,3236.53
+159,"Brand, Vance D.",ASTP,217.5,1970,1975,male,1931,U.S.,4,746.0
+160,"Brand, Vance D.",STS-5,122.25,1980,1982,male,1931,U.S.,4,746.0
+161,"Brand, Vance D.",STS-41-B,191.25,1980,1984,male,1931,U.S.,4,746.0
+162,"Brand, Vance D.",STS-35,215.0,1990,1990,male,1931,U.S.,4,746.0
+163,"Slayton, Donald K.",ASTP,217.47,1970,1975,male,1924,U.S.,1,217.47
+164,"Zholobov, Vitali",Soyuz 21,1182.0,1970,1976,male,1937,U.S.S.R/Russia,1,1182.38
+165,"Aksyonov, Vladimir",Soyuz 22,189.0,1970,1976,male,1935,U.S.S.R/Russia,2,284.18
+166,"Aksyonov, Vladimir",Soyuz T­2,94.0,1980,1980,male,1935,U.S.S.R/Russia,2,284.18
+167,"Zudov, Vyacheslav",Soyuz 23,48.0,1970,1976,male,1942,U.S.S.R/Russia,1,48.1
+168,"Rozhdestvensky, Valery",Soyuz 23,48.0,1970,1976,male,1939,U.S.S.R/Russia,1,48.1
+169,"Glazkov, Yuri",Soyuz 24,425.0,1970,1977,male,1939,U.S.S.R/Russia,1,425.42
+170,"Kovalyonok, Vladimir",Soyuz 25,48.0,1970,1977,male,1942,U.S.S.R/Russia,3,5193.13
+171,"Kovalyonok, Vladimir",Salyut 6,3350.0,1970,1978,male,1942,U.S.S.R/Russia,3,5193.13
+172,"Kovalyonok, Vladimir",Salyut 6,1793.0,1980,1981,male,1942,U.S.S.R/Russia,3,5193.13
+173,"Ryumin, Valery",Soyuz 25,48.0,1970,1977,male,1939,U.S.S.R/Russia,4,8921.4
+174,"Ryumin, Valery",Salyut 6,4200.0,1970,1979,male,1939,U.S.S.R/Russia,4,8921.4
+175,"Ryumin, Valery",Salyut 6,4436.0,1980,1980,male,1939,U.S.S.R/Russia,4,8921.4
+176,"Ryumin, Valery",STS­ 91,235.0,1990,1998,male,1939,U.S.S.R/Russia,4,8921.4
+177,"Romanenko, Yuri",Soyuz 26/27,2314.0,1970,1977,male,1944,U.S.S.R/Russia,3,10338.35
+178,"Romanenko, Yuri",Soyuz 38,188.0,1980,1980,male,1944,U.S.S.R/Russia,3,10338.35
+179,"Romanenko, Yuri",2,7835.0,1980,1987,male,1944,U.S.S.R/Russia,3,10338.35
+180,"Dzhanibekov, Vladimir",Soyuz 27/26,142.0,1970,1978,male,1942,U.S.S.R/Russia,5,3495.93
+181,"Dzhanibekov, Vladimir",Soyuz 39,188.0,1980,1981,male,1942,U.S.S.R/Russia,5,3495.93
+182,"Dzhanibekov, Vladimir",Salyut 7,189.0,1980,1982,male,1942,U.S.S.R/Russia,5,3495.93
+183,"Dzhanibekov, Vladimir",Salyut 7,283.0,1980,1984,male,1942,U.S.S.R/Russia,5,3495.93
+184,"Dzhanibekov, Vladimir",Salyut 7,2691.0,1980,1985,male,1942,U.S.S.R/Russia,5,3495.93
+185,Vladimir Remek,Soyuz 28,190.28,1970,1978,male,1948,Czechoslovakia,1,190.28
+186,"Ivanchenkov, Aleksandr",Salyut 6,3350.0,1970,1978,male,1940,U.S.S.R/Russia,2,3540.62
+187,"Ivanchenkov, Aleksandr",Salyut 7,189.0,1980,1982,male,1940,U.S.S.R/Russia,2,3540.62
+188,Miroslaw Hermaszewske,Soyuz 30,190.03,1970,1978,male,1941,Poland,1,190.03
+189,"Jahn, Sigmund",Soyuz 31,188.82,1970,1978,male,1937,Germany,1,188.82
+190,"Lyakhov, Vladimir",Salyut 6,4200.0,1970,1979,male,1941,U.S.S.R/Russia,3,7999.78
+191,"Lyakhov, Vladimir",Salyut 7,3586.0,1980,1983,male,1941,U.S.S.R/Russia,3,7999.78
+192,"Lyakhov, Vladimir",3,212.0,1980,1988,male,1941,U.S.S.R/Russia,3,7999.78
+193,Georgi Ivanov,Soyuz 33,47.0,1970,1979,male,1940,Bulgaria,1,47.0
+194,"Popov, Leonid",Salyut 6,4436.0,1980,1980,male,1945,U.S.S.R/Russia,3,4814.75
+195,"Popov, Leonid",Salyut 6,188.0,1980,1981,male,1945,U.S.S.R/Russia,3,4814.75
+196,"Popov, Leonid",Salyut 7,189.0,1980,1982,male,1945,U.S.S.R/Russia,3,4814.75
+197,Bertalan Farkas,Soyuz 36/35,188.75,1980,1980,male,1949,Hungry,1,188.75
+198,"Malyshev, Yuri",Salyut 7,94.0,1980,1980,male,1941,U.S.S.R/Russia,2,283.98
+199,"Malyshev, Yuri",Salyut 7,189.0,1980,1984,male,1941,U.S.S.R/Russia,2,283.98
+200,Pham Tuan,Salyut 6,188.7,1980,1980,male,1947,Vietnam,1,188.7
+201,Arnaldo Tamayo Mendez,Soyuz 38,1887.71,1980,1980,male,1942,Cuba,1,188.71
+202,"Kizim, Leonid",Salyut 6,307.0,1980,1980,male,1941,U.S.S.R/Russia,3,8993.93
+203,"Kizim, Leonid",Salyut 7,5686.0,1980,1984,male,1941,U.S.S.R/Russia,3,8993.93
+204,"Kizim, Leonid",1,3000.0,1980,1986,male,1941,U.S.S.R/Russia,3,8993.93
+205,"Strekalov, Gennadi",Salyut 6,307.0,1980,1980,male,1940,U.S.S.R/Russia,5,6454.37
+206,"Strekalov, Gennadi",Soyuz T­8,48.0,1980,1983,male,1940,U.S.S.R/Russia,5,6454.37
+207,"Strekalov, Gennadi",Salyut 7,189.0,1980,1984,male,1940,U.S.S.R/Russia,5,6454.37
+208,"Strekalov, Gennadi",7,3140.0,1990,1990,male,1940,U.S.S.R/Russia,5,6454.37
+209,"Strekalov, Gennadi",18,2768.0,1990,1995,male,1940,U.S.S.R/Russia,5,6454.37
+210,"Savinykh, Viktor",Salyut 6,1793.0,1980,1981,male,1940,U.S.S.R/Russia,3,6065.63
+211,"Serebrov, Aleksandr",Soyuz T­8,48.0,1980,1983,male,1944,U.S.S.R/Russia,4,8950.87
+212,"Serebrov, Aleksandr",5,3990.0,1990,1990,male,1944,U.S.S.R/Russia,4,8950.87
+213,"Serebrov, Aleksandr",14,4721.0,1990,1993,male,1944,U.S.S.R/Russia,4,8950.87
+214,"Savitskaya, Svetlana",Salyut 7,189.0,1980,1982,female,1948,U.S.S.R/Russia,2,473.1
+215,"Savitskaya, Svetlana",Salyut 7,283.0,1980,1984,female,1948,U.S.S.R/Russia,2,473.1
+216,"Overmyer, Robert F.",STS-5,122.0,1980,1982,male,1936,U.S.,2,290.0
+217,"Overmyer, Robert F.",STS-51-B,168.0,1980,1985,male,1936,U.S.,2,290.0
+218,"Allen, Joseph P.",STS-5,122.0,1980,1982,male,1937,U.S.,2,314.0
+219,"Allen, Joseph P.",STS-51-A,191.0,1980,1984,male,1937,U.S.,2,314.0
+220,"Lenoir, William B.",STS-5,122.0,1980,1982,male,1939,U.S.,1,122.0
+221,"Bobko, Karol J.",STS-6,122.0,1980,1983,male,1937,U.S.,3,386.0
+222,"Bobko, Karol J.",STS-51-D,236.0,1980,1985,male,1937,U.S.,3,386.0
+223,"Bobko, Karol J.",STS-51-J,98.0,1980,1985,male,1937,U.S.,3,386.0
+224,"Peterson, Donald H.",STS-6,120.0,1980,1983,male,1933,U.S.,1,120.0
+225,"Musgrave, Franklin Story",STS-6,120.0,1980,1983,male,1935,U.S.,6,1281.0
+226,"Musgrave, Franklin Story",STS-51F,191.0,1980,1985,male,1935,U.S.,6,1281.0
+227,"Musgrave, Franklin Story",STS-33,168.0,1980,1989,male,1935,U.S.,6,1281.0
+228,"Musgrave, Franklin Story",STS-44,167.0,1990,1991,male,1935,U.S.,6,1281.0
+229,"Musgrave, Franklin Story",STS-61,260.0,1990,1993,male,1935,U.S.,6,1281.0
+230,"Musgrave, Franklin Story",STS-80,424.0,1990,1996,male,1935,U.S.,6,1281.0
+231,"Titov, Vladimir",Soyuz T­8,48.0,1980,1983,male,1947,U.S.S.R/Russia,4,9288.75
+232,"Titov, Vladimir",3,8782.0,1980,1988,male,1947,U.S.S.R/Russia,4,9288.75
+233,"Titov, Vladimir",STS­63,198.0,1990,1995,male,1947,U.S.S.R/Russia,4,9288.75
+234,"Titov, Vladimir",24,259.0,1990,1997,male,1947,U.S.S.R/Russia,4,9288.75
+235,"Hauck, Frederick H.",STS-7,146.0,1980,1983,male,1941,U.S.,3,434.0
+236,"Hauck, Frederick H.",STS-51-A,191.0,1980,1984,male,1941,U.S.,3,434.0
+237,"Hauck, Frederick H.",STS-26,97.0,1980,1988,male,1941,U.S.,3,434.0
+238,"Fabian, John M.",STS-7,146.0,1980,1983,male,1939,U.S.,2,316.0
+239,"Fabian, John M.",STS-51-G,170.0,1980,1985,male,1939,U.S.,2,316.0
+240,"Ride, Sally K.",STS-7,147.0,1980,1983,female,1951,U.S.,2,343.0
+241,"Ride, Sally K.",STS-41-G,197.0,1980,1984,female,1951,U.S.,2,343.0
+242,"Thagard, Norman E.",STS-7,147.0,1980,1983,male,1943,U.S.,5,3373.4
+243,"Thagard, Norman E.",STS-51B,168.0,1980,1985,male,1943,U.S.,5,3373.4
+244,"Thagard, Norman E.",STS-30,97.0,1980,1989,male,1943,U.S.,5,3373.4
+245,"Thagard, Norman E.",STS-42,192.0,1990,1992,male,1943,U.S.,5,3373.4
+246,"Thagard, Norman E.",18,2760.0,1990,1995,male,1943,U.S.,5,3373.4
+247,"Aleksandrov, Aleksandr",Salyut 7,3586.0,1980,1983,male,1943,U.S.S.R/Russia,2,7434.03
+248,"Aleksandrov, Aleksandr",2,3847.0,1980,1987,male,1943,U.S.S.R/Russia,2,7434.03
+249,"Brandenstein, Daniel C.",STS-8,145.0,1980,1983,male,1943,U.S.,4,789.0
+250,"Brandenstein, Daniel C.",STS-51-G,170.0,1980,1985,male,1943,U.S.,4,789.0
+251,"Brandenstein, Daniel C.",STS-32,261.0,1990,1990,male,1943,U.S.,4,789.0
+252,"Brandenstein, Daniel C.",STS-49,213.0,1990,1992,male,1943,U.S.,4,789.0
+253,"Bluford, Guion S., Jr.",STS-8,31.0,1980,1983,male,1942,U.S.,4,688.0
+254,"Bluford, Guion S., Jr.",STS-61-A,168.0,1980,1985,male,1942,U.S.,4,688.0
+255,"Bluford, Guion S., Jr.",STS-39,199.0,1990,1991,male,1942,U.S.,4,688.0
+256,"Bluford, Guion S., Jr.",STS-53,175.0,1990,1992,male,1942,U.S.,4,688.0
+257,"Gardner, Dale A.",STS-8,145.0,1980,1983,male,1948,U.S.,2,336.0
+258,"Gardner, Dale A.",STS-51A,191.0,1980,1984,male,1948,U.S.,2,336.0
+259,"Thornton, William E.",STS-8,145.0,1980,1983,male,1929,U.S.,2,313.26
+260,"Thornton, William E.",STS-51-B,169.0,1980,1985,male,1929,U.S.,2,313.26
+261,"Shaw, Brewster H., Jr.",STS-9,247.75,1980,1983,male,1945,U.S.,3,533.75
+262,"Shaw, Brewster H., Jr.",STS-61-B,165.0,1980,1985,male,1945,U.S.,3,533.75
+263,"Shaw, Brewster H., Jr.",STS-28,121.0,1980,1989,male,1945,U.S.,3,533.75
+264,"Parker, Robert A. R.",STS-9,248.0,1980,1983,male,1936,U.S.,2,463.0
+265,"Parker, Robert A. R.",STS-35,215.0,1990,1990,male,1936,U.S.,2,463.0
+266,"Lichtenberg, Byron Kurt",Spacelab 1,247.94,1980,1983,male,1948,U.S.,2,462.31
+267,"Lichtenberg, Byron Kurt",Atlas-1,214.37,1990,1992,male,1948,U.S.,2,462.31
+268,"Merbold, Ulf",STS-9,248.0,1980,1983,male,1941,Germany,3,1197.6
+269,"Merbold, Ulf",STS-42,193.0,1990,1992,male,1941,Germany,3,1197.6
+270,"Merbold, Ulf",Euromir 94,756.6,1990,1994,male,1941,Germany,3,1197.6
+271,"Gibson, Robert L.",STS-41-B,191.25,1980,1984,male,1946,U.S.,5,868.13
+272,"Gibson, Robert L.",STS-61-C,146.0,1980,1986,male,1946,U.S.,5,868.13
+273,"Gibson, Robert L.",STS-27,105.0,1980,1988,male,1946,U.S.,5,868.13
+274,"Gibson, Robert L.",STS-47,190.5,1990,1992,male,1946,U.S.,5,868.13
+275,"Gibson, Robert L.",STS-71,235.38,1990,1995,male,1946,U.S.,5,868.13
+276,"McNair, Ronald E.",STS-41-B,191.0,1980,1984,male,1950,U.S.,2,191.0
+277,"McNair, Ronald E.",STS-51-L,0.0,1980,1986,male,1950,U.S.,2,191.0
+278,"Stewart, Robert L.",STS-41 B,191.5,1980,1984,male,1942,U.S.,2,289.2
+279,"Stewart, Robert L.",STS-51 J,97.7,1980,1985,male,1942,U.S.,2,289.2
+280,"McCandless, Bruce, II",STS-41-B,191.0,1980,1984,male,1937,U.S.,2,312.0
+281,"McCandless, Bruce, II",STS-31,121.0,1990,1990,male,1937,U.S.,2,312.0
+282,"Solovyov, Vladimir",Salyut 7,5686.0,1980,1984,male,1946,U.S.S.R/Russia,2,8686.82
+283,"Solovyov, Vladimir",1,3000.0,1980,1986,male,1946,U.S.S.R/Russia,2,8686.82
+284,"Atkov, Oleg",Salyut 7,5686.0,1980,1984,male,1949,U.S.S.R/Russia,1,5686.82
+285,Rakesh Sharma,Salyut 7,4365.8,1980,1984,male,1949,India,1,4365.8
+286,"Scobee, Francis R.",STS-41-C,168.0,1980,1984,male,1939,U.S.,2,168.0
+287,"Scobee, Francis R.",STS-51-L,0.0,1980,1986,male,1939,U.S.,2,168.0
+288,"Hart, Terry J.",STS-41-C,167.67,1980,1984,male,1946,U.S.,1,167.67
+289,"Van Hoften, James D. A.",STS-41 C,167.0,1980,1984,male,1944,U.S.,2,337.95
+290,"Van Hoften, James D. A.",STS-51I,171.0,1980,1985,male,1944,U.S.,2,337.95
+291,"Nelson, George D.",STS-41C,168.0,1980,1984,male,1950,U.S.,3,411.0
+292,"Nelson, George D.",STS-61C,146.0,1980,1986,male,1950,U.S.,3,411.0
+293,"Nelson, George D.",STS-26,97.0,1980,1988,male,1950,U.S.,3,411.0
+294,"Volk, Igor",Salyut 7,283.0,1980,1984,male,1937,U.S.S.R/Russia,1,283.23
+295,"Coats, Michael L.",STS-41-D,145.0,1980,1984,male,1952,U.S.,3,464.0
+296,"Coats, Michael L.",STS-29,120.0,1980,1989,male,1952,U.S.,3,464.0
+297,"Coats, Michael L.",STS-39,199.0,1990,1991,male,1952,U.S.,3,464.0
+298,"Mullane, Richard M.",STS-41D,145.0,1980,1984,male,1945,U.S.,3,356.0
+299,"Mullane, Richard M.",STS-27,105.0,1980,1988,male,1945,U.S.,3,356.0
+300,"Mullane, Richard M.",STS-36,106.0,1990,1990,male,1945,U.S.,3,356.0
+301,"Hawley, Steven A.",STS-41-D,144.0,1980,1984,male,1951,U.S.,5,768.0
+302,"Hawley, Steven A.",STS-61-C,146.0,1980,1986,male,1951,U.S.,5,768.0
+303,"Hawley, Steven A.",STS-31,121.0,1990,1990,male,1951,U.S.,5,768.0
+304,"Hawley, Steven A.",STS-82,239.0,1990,1997,male,1951,U.S.,5,768.0
+305,"Hawley, Steven A.",STS-93,118.0,1990,1999,male,1951,U.S.,5,768.0
+306,"Resnik, Judith A.",STS-41-D,144.0,1980,1984,female,1949,U.S.,2,144.0
+307,"Resnik, Judith A.",STS-51-L,0.0,1980,1985,female,1949,U.S.,2,144.0
+308,"Walker, Charles David",STS-41D,144.98,1980,1984,male,1948,U.S.,3,478.29
+309,"Walker, Charles David",STS-51D,168.15,1980,1985,male,1948,U.S.,3,478.29
+310,"Walker, Charles David",STS-61B,165.16,1980,1985,male,1948,U.S.,3,478.29
+311,"McBride, Jon A.",STS-41-G,197.0,1980,1984,male,1943,U.S.,1,197.0
+312,"Sullivan, Kathryn D.",STS-41-G,197.5,1980,1984,female,1951,U.S.,3,532.0
+313,"Sullivan, Kathryn D.",STS-31,121.0,1990,1990,female,1951,U.S.,3,532.0
+314,"Sullivan, Kathryn D.",STS-45,213.5,1990,1992,female,1951,U.S.,3,532.0
+315,"Leestma, David C.",STS-41-G,197.0,1980,1984,male,1949,U.S.,3,532.0
+316,"Leestma, David C.",STS-28,121.0,1980,1989,male,1949,U.S.,3,532.0
+317,"Leestma, David C.",STS-45,214.0,1990,1992,male,1949,U.S.,3,532.0
+318,"Scully-Power, Paul Desmond",STS-41-G,197.67,1980,1984,male,1944,U.S.,1,197.67
+319,"Garneau, Marc Joseph Jean-Pierre",STS-41-G,197.0,1980,1984,male,1949,Canada,3,697.67
+320,"Garneau, Marc Joseph Jean-Pierre",STS-77,240.67,1990,1996,male,1949,Canada,3,697.67
+321,"Garneau, Marc Joseph Jean-Pierre",STS-97,260.0,2000,2000,male,1949,Canada,3,697.67
+322,"Walker, David Mathieson",STS-51-A,191.0,1980,1984,male,1944,U.S.,4,724.45
+323,"Walker, David Mathieson",STS-30,96.0,1980,1989,male,1944,U.S.,4,724.45
+324,"Walker, David Mathieson",STS-53,175.0,1990,1992,male,1944,U.S.,4,724.45
+325,"Walker, David Mathieson",STS-69,44.0,1990,1995,male,1944,U.S.,4,724.45
+326,"Fisher, Anna L.",STS-51-A,191.0,1980,1984,female,1949,U.S.,1,191.0
+327,"Shriver, Loren J.",STS-51-C,73.5,1980,1985,male,1944,U.S.,3,386.0
+328,"Shriver, Loren J.",STS-31,121.0,1990,1990,male,1944,U.S.,3,386.0
+329,"Shriver, Loren J.",STS-46,191.0,1990,1992,male,1944,U.S.,3,386.0
+330,"Onizuka, Ellison S.",STS 51-C,74.0,1980,1985,male,1946,U.S.,2,74.0
+331,"Onizuka, Ellison S.",STS 51-L,0.0,1980,1986,male,1946,U.S.,2,74.0
+332,"Buchli, James F.",STS-51-C,73.5,1980,1985,male,1945,U.S.,4,490.0
+333,"Buchli, James F.",STS-61-A,168.0,1980,1985,male,1945,U.S.,4,490.0
+334,"Buchli, James F.",STS-29,120.0,1980,1989,male,1945,U.S.,4,490.0
+335,"Buchli, James F.",STS-48,128.5,1990,1991,male,1945,U.S.,4,490.0
+336,"Payton, Gary Eugene",STS-51C,73.675,1980,1985,male,1948,U.S.,1,73.675
+337,"Williams, Donald E.",STS-51-D,167.0,1980,1985,male,1942,U.S.,2,286.0
+338,"Williams, Donald E.",STS-34,119.0,1980,1989,male,1942,U.S.,2,286.0
+339,"Seddon, Margaret Rhea",STS-51-D,168.0,1980,1985,female,1947,U.S.,3,722.0
+340,"Seddon, Margaret Rhea",STS-40,218.0,1990,1991,female,1947,U.S.,3,722.0
+341,"Seddon, Margaret Rhea",STS-58,336.0,1990,1993,female,1947,U.S.,3,722.0
+342,"Griggs, S. David",STS-51-D,168.0,1980,1985,male,1947,U.S.,1,168.0
+343,"Hoffman, Jeffrey A.",STS-51-D,167.0,1980,1985,male,1944,U.S.,5,1211.9
+344,"Hoffman, Jeffrey A.",STS-35,215.0,1990,1990,male,1944,U.S.,5,1211.9
+345,"Hoffman, Jeffrey A.",STS-46,191.0,1990,1992,male,1944,U.S.,5,1211.9
+346,"Hoffman, Jeffrey A.",STS-61,259.0,1990,1993,male,1944,U.S.,5,1211.9
+347,"Hoffman, Jeffrey A.",STS-75,377.0,1990,1996,male,1944,U.S.,5,1211.9
+348,"Garn, Edwin Jacob",STS-51D,168.15,1980,1985,male,1932,U.S.,1,168.15
+349,"Gregory, Frederick D.",STS-51-B,168.0,1980,1985,male,1941,U.S.,3,455.0
+350,"Gregory, Frederick D.",STS-33,120.0,1980,1989,male,1941,U.S.,3,455.0
+351,"Gregory, Frederick D.",STS-44,166.0,1990,1991,male,1941,U.S.,3,455.0
+352,"Lind, Don L.",STS-51-B,168.0,1980,1985,male,1930,U.S.,1,168.0
+353,"Lodewijk, van der Berg",Spacelab-3,168.525,1980,1985,male,1932,U.S.,1,168.525
+354,"Wang, Taylor Gun-Jin",spacelab-3,168.525,1980,1985,male,1940,U.S.,1,168.525
+355,"Creighton, John O.",STS-51-G,170.0,1980,1985,male,1943,U.S.,3,404.0
+356,"Creighton, John O.",STS-36,106.0,1990,1990,male,1943,U.S.,3,404.0
+357,"Creighton, John O.",STS-48,128.0,1990,1991,male,1943,U.S.,3,404.0
+358,"Nagel, Steven R.",STS-51G,170.0,1980,1985,male,1946,U.S.,4,522.0
+359,"Nagel, Steven R.",STS-61A,169.0,1980,1985,male,1946,U.S.,4,522.0
+360,"Nagel, Steven R.",STS-37,143.0,1990,1991,male,1946,U.S.,4,522.0
+361,"Nagel, Steven R.",STS-55,240.0,1990,1993,male,1946,U.S.,4,522.0
+362,"Lucid, Shannon W.",STS-51-G,169.0,1980,1985,female,1943,U.S.,5,5353.0
+363,"Lucid, Shannon W.",STS-34,119.0,1980,1989,female,1943,U.S.,5,5353.0
+364,"Lucid, Shannon W.",STS-43,213.0,1990,1991,female,1943,U.S.,5,5353.0
+365,"Lucid, Shannon W.",STS-58,336.0,1990,1993,female,1943,U.S.,5,5353.0
+366,"Lucid, Shannon W.",22,4516.0,1990,1996,female,1943,U.S.,5,5353.0
+367,"Baudry, Patrick",STS-51G,169.63,1980,1985,male,1946,France,1,169.63
+368,"Al-saud, Sultan bin Salman",STS-51G,170.0,1980,1985,male,1956,Saudi Arabia,1,170.0
+369,"Bridges, Roy D., Jr.",STS-51-F,190.0,1980,1985,male,1943,U.S.,1,190.0
+370,"Henize, Karl G.",STS-51-F,190.0,1980,1985,male,1926,U.S.,1,190.75
+371,"England, Anthony W.",STS-51-F,190.0,1980,1985,male,1942,U.S.,1,190.0
+372,"Acton, Loren Wilbur",Spacelab-2,190.94,1970,1978,male,1936,U.S.,1,190.94
+373,"Bartoe, John-David Francis",STS-51-F,190.94,1970,1978,male,1944,U.S.,1,190.94
+374,"Covey, Richard O.",STS-51-I,170.0,1980,1985,male,1946,U.S.,4,645.0
+375,"Covey, Richard O.",STS-26,97.0,1980,1988,male,1946,U.S.,4,645.0
+376,"Covey, Richard O.",STS-38,118.0,1990,1990,male,1946,U.S.,4,645.0
+377,"Covey, Richard O.",STS-61,260.0,1990,1993,male,1946,U.S.,4,645.0
+378,"Lounge, John M.",STS-51-I,170.0,1980,1985,male,1946,U.S.,3,482.0
+379,"Lounge, John M.",STS-26,97.0,1980,1988,male,1946,U.S.,3,482.0
+380,"Lounge, John M.",STS-35,215.0,1990,1990,male,1946,U.S.,3,482.0
+381,"Fisher, William F.",STS-51-I,170.0,1980,1985,male,1946,U.S.,1,170.0
+382,"Vasyutin, Vladimir",Salyut 7,1557.0,1980,1985,male,1952,U.S.S.R/Russia,1,1557.87
+383,"Volkov, Alexander",Salyut 7,1557.0,1980,1985,male,1948,U.S.S.R/Russia,3,9395.87
+384,"Volkov, Alexander",4,3635.0,1980,1989,male,1948,U.S.S.R/Russia,3,9395.87
+385,"Volkov, Alexander",10,4202.0,1990,1992,male,1948,U.S.S.R/Russia,3,9395.87
+386,"Grabe, Ronald J.",STS-51-J,97.73,1980,1985,male,1945,U.S.,4,626.73
+387,"Grabe, Ronald J.",STS-30,97.0,1980,1989,male,1945,U.S.,4,626.73
+388,"Grabe, Ronald J.",STS-42,193.0,1990,1992,male,1945,U.S.,4,626.73
+389,"Grabe, Ronald J.",STS-57,239.0,1990,1993,male,1945,U.S.,4,626.73
+390,"Hilmers, David C.",STS-51-J,97.0,1980,1985,male,1950,U.S.,4,493.0
+391,"Hilmers, David C.",STS-26,97.0,1980,1988,male,1950,U.S.,4,493.0
+392,"Hilmers, David C.",STS-36,106.0,1990,1990,male,1950,U.S.,4,493.0
+393,"Hilmers, David C.",STS-42,193.0,1990,1992,male,1950,U.S.,4,493.0
+394,"Pailes, William Arthur",STS-51-J,98.11,1980,1985,male,1936,U.S.,1,98.11
+395,"Dunbar, Bonnie J.",STS-61-A,168.0,1980,1985,female,1949,U.S.,5,1208.0
+396,"Dunbar, Bonnie J.",STS-32,261.0,1990,1990,female,1949,U.S.,5,1208.0
+397,"Dunbar, Bonnie J.",STS-50,331.0,1990,1992,female,1949,U.S.,5,1208.0
+398,"Dunbar, Bonnie J.",STS-71,235.0,1990,1995,female,1949,U.S.,5,1208.0
+399,"Dunbar, Bonnie J.",STS-89,211.0,1990,1998,female,1949,U.S.,5,1208.0
+400,"Furrer, Reinhard Alfred",STS-61A,168.73,1980,1985,male,1940,Germany,1,168.73
+401,"Messerschmid, Ernst Willi",STS-61A,168.73,1980,1985,male,1945,Germany,1,168.73
+402,"Ockels, Wubbo Johannes",STS-61-A,168.73,1980,1985,male,1946,Netherland,1,168.73
+403,"O'Connor, Bryan D.",STS-61B Atlantis,165.0,1980,1985,male,1946,U.S.,2,386.0
+404,"O'Connor, Bryan D.",STS-40 Columbia,218.0,1990,1991,male,1946,U.S.,2,386.0
+405,"Ross, Jerry L.",STS-61,165.0,1980,1985,male,1948,U.S.,7,1393.0
+406,"Ross, Jerry L.",STS-27,105.0,1980,1988,male,1948,U.S.,7,1393.0
+407,"Ross, Jerry L.",STS-37,143.0,1990,1991,male,1948,U.S.,7,1393.0
+408,"Ross, Jerry L.",STS-55,239.0,1990,1993,male,1948,U.S.,7,1393.0
+409,"Ross, Jerry L.",STS-74,129.0,1990,1995,male,1948,U.S.,7,1393.0
+410,"Ross, Jerry L.",STS-88,283.0,1990,1998,male,1948,U.S.,7,1393.0
+411,"Ross, Jerry L.",STS-110,259.0,2000,2002,male,1948,U.S.,7,1393.0
+412,"Cleave, Mary L.",STS-30,97.0,1980,1985,female,1947,U.S.,2,262.0
+413,"Cleave, Mary L.",STS-61-B,165.0,1980,1989,female,1947,U.S.,2,262.0
+414,"Spring, Sherwood C.",STS-61-B,165.0,1980,1985,male,1944,U.S.,1,165.0
+415,"Neri Vela, Rodolfl",STS-61-B,165.07,1980,1985,male,1952,Mexico,1,165.67
+416,"Bolden, Charles F., Jr.",STS-61-C,74.0,1980,1986,male,1946,U.S.,4,680.0
+417,"Bolden, Charles F., Jr.",STS-31,121.0,1990,1990,male,1946,U.S.,4,680.0
+418,"Bolden, Charles F., Jr.",STS-45,214.0,1990,1992,male,1946,U.S.,4,680.0
+419,"Bolden, Charles F., Jr.",STS-60,199.0,1990,1994,male,1946,U.S.,4,680.0
+420,"Chang-Diaz, Franklin R.",STS-61-C,146.0,1980,1986,male,1950,U.S.,7,1601.0
+421,"Chang-Diaz, Franklin R.",STS-34,120.0,1980,1989,male,1950,U.S.,7,1601.0
+422,"Chang-Diaz, Franklin R.",STS-46,191.0,1990,1992,male,1950,U.S.,7,1601.0
+423,"Chang-Diaz, Franklin R.",STS-60,199.0,1990,1994,male,1950,U.S.,7,1601.0
+424,"Chang-Diaz, Franklin R.",STS-75,377.0,1990,1996,male,1950,U.S.,7,1601.0
+425,"Chang-Diaz, Franklin R.",STS-91,236.0,1990,1998,male,1950,U.S.,7,1601.0
+426,"Chang-Diaz, Franklin R.",STS-111,333.0,2000,2002,male,1950,U.S.,7,1601.0
+427,"Cenker, Robert Joseph",STS-61C,146.42,1980,1986,male,1948,U.S.,1,146.42
+428,"Nelson, William Clarence",STS-61C,6.03,1980,1986,male,1942,U.S.,1,6.03
+429,"Smith, Michael John",STS-51L,0.61,1980,1986,male,1945,U.S.,1,0.61
+430,"Jarvis, Gregory Bruce",STS-51L,0.61,1980,1986,male,1944,U.S.,1,0.61
+431,"McAuliffe, Sharon Christa Corrigan",STS-51L,0.61,1980,1986,female,1948,U.S.,1,0.61
+432,"Laveykin, Aleksandr",2,4179.0,1980,1987,male,1951,U.S.S.R/Russia,1,4179.42
+433,"Viktorenko, Aleksandr",1,191.0,1980,1987,male,1947,U.S.S.R/Russia,4,11737.55
+434,"Viktorenko, Aleksandr",5,3990.0,1990,1990,male,1947,U.S.S.R/Russia,4,11737.55
+435,"Viktorenko, Aleksandr",11,3494.0,1990,1992,male,1947,U.S.S.R/Russia,4,11737.55
+436,"Viktorenko, Aleksandr",17,4061.0,1990,1994,male,1947,U.S.S.R/Russia,4,11737.55
+437,"Faris, M. Achmed",1,191.0,1980,1987,male,1951,Syria,1,191.0
+438,"Manarov, Musa",3,8782.0,1980,1987,male,1951,U.S.S.R/Russia,2,12984.47
+439,"Manarov, Musa",8,4201.0,1990,1990,male,1951,U.S.S.R/Russia,2,12984.47
+440,"Levchenko, Anatoli",Soyuz TM­4/3,189.0,1980,1987,male,1941,U.S.S.R/Russia,1,189.97
+441,"Solovyev, Anatoly",2,236.0,1980,1988,male,1948,U.S.S.R/Russia,5,15624.03
+442,"Solovyev, Anatoly",6,4297.0,1990,1990,male,1948,U.S.S.R/Russia,5,15624.03
+443,"Solovyev, Anatoly",12,4533.0,1990,1993,male,1948,U.S.S.R/Russia,5,15624.03
+444,"Solovyev, Anatoly",19,1811.0,1990,1995,male,1948,U.S.S.R/Russia,5,15624.03
+445,"Solovyev, Anatoly",24,4745.0,1990,1997,male,1948,U.S.S.R/Russia,5,15624.03
+446,"Aleksandrov, Aleksandr",2,47.0,1980,1988,male,1951,Bulgaria,1,47.0
+447,"Polyakov, Valeri",3,5782.0,1980,1988,male,1942,U.S.S.R/Russia,2,16288.53
+448,"Polyakov, Valeri",15,10505.0,1990,1994,male,1942,U.S.S.R/Russia,2,16288.53
+449,"Mohmand, Abdul Ahad",3,212.0,1980,1988,male,1959,Afghanistan,1,212.0
+450,"Krikalev, Sergei",4,3635.0,1980,1988,male,1958,U.S.S.R/Russia,6,19281.65
+451,"Krikalev, Sergei",9,7484.0,1990,1991,male,1958,U.S.S.R/Russia,6,19281.65
+452,"Krikalev, Sergei",STS­60,199.0,1990,1994,male,1958,U.S.S.R/Russia,6,19281.65
+453,"Krikalev, Sergei",STS­88,283.0,1990,1998,male,1958,U.S.S.R/Russia,6,19281.65
+454,"Krikalev, Sergei",1,3383.0,2000,2000,male,1958,U.S.S.R/Russia,6,19281.65
+455,"Krikalev, Sergei",11,4296.0,2000,2005,male,1958,U.S.S.R/Russia,6,19281.65
+456,"Gardner, Guy S.",STS-27,105.0,1980,1988,male,1948,U.S.,2,320.16
+457,"Gardner, Guy S.",STS-35,215.0,1990,1990,male,1948,U.S.,2,320.16
+458,"Shepherd, William M.",STS-27,105.0,1980,1988,male,1949,U.S.,4,3721.0
+459,"Shepherd, William M.",STS-41,98.0,1990,1990,male,1949,U.S.,4,3721.0
+460,"Shepherd, William M.",STS-52,237.0,1990,1992,male,1949,U.S.,4,3721.0
+461,"Shepherd, William M.",1,3281.0,2000,2000,male,1949,U.S.,4,3721.0
+462,"Blaha, John E.",STS-29,120.0,1980,1989,male,1942,U.S.,5,3864.0
+463,"Blaha, John E.",STS-33,120.0,1980,1989,male,1942,U.S.,5,3864.0
+464,"Blaha, John E.",STS-43,213.0,1990,1991,male,1942,U.S.,5,3864.0
+465,"Blaha, John E.",STS-58,336.0,1990,1993,male,1942,U.S.,5,3864.0
+466,"Blaha, John E.",22,3077.0,1990,1996,male,1942,U.S.,5,3864.0
+467,"Springer, Robert C.",STS-29,119.0,1980,1989,male,1942,U.S.,2,237.0
+468,"Springer, Robert C.",STS-38,118.0,1990,1990,male,1942,U.S.,2,237.0
+469,"Bagian, James P.",STS-29,120.0,1980,1989,male,1952,U.S.,2,338.0
+470,"Bagian, James P.",STS-40,218.0,1990,1991,male,1952,U.S.,2,338.0
+471,"Lee, Mark C.",STS-30,97.0,1980,1989,male,1952,U.S.,4,789.76
+472,"Lee, Mark C.",STS-47,190.0,1990,1992,male,1952,U.S.,4,789.76
+473,"Lee, Mark C.",STS-64,262.0,1990,1994,male,1952,U.S.,4,789.76
+474,"Lee, Mark C.",STS-82,239.0,1990,1997,male,1952,U.S.,4,789.76
+475,"Richards, Richard N.",STS-28,120.0,1980,1989,male,1946,U.S.,4,813.0
+476,"Richards, Richard N.",STS-41,96.0,1990,1990,male,1946,U.S.,4,813.0
+477,"Richards, Richard N.",STS-50,336.0,1990,1992,male,1946,U.S.,4,813.0
+478,"Richards, Richard N.",STS-64,242.0,1990,1994,male,1946,U.S.,4,813.0
+479,"Adamson, James C.",STS-28,121.0,1980,1989,male,1946,U.S.,2,334.0
+480,"Adamson, James C.",STS-43,213.0,1990,1991,male,1946,U.S.,2,334.0
+481,"Brown, Mark N.",STS-28,121.0,1980,1989,male,1951,U.S.,2,249.0
+482,"Brown, Mark N.",STS-48,128.0,1990,1991,male,1951,U.S.,2,249.0
+483,"McCulley, Michael J.",STS-34,119.0,1980,1989,male,1943,U.S.,1,119.0
+484,"Baker, Ellen S.",STS-34,120.0,1980,1989,female,1953,U.S.,3,686.0
+485,"Baker, Ellen S.",STS-50,331.0,1990,1992,female,1953,U.S.,3,686.0
+486,"Baker, Ellen S.",STS-71,235.0,1990,1995,female,1953,U.S.,3,686.0
+487,"Carter, Manley Lanier, Jr.",STS-33,120.0,1980,1989,male,1947,U.S.,1,120.0
+488,"Thornton, Kathryn C.",STS-33,120.0,1980,1989,female,1952,U.S.,4,975.23
+489,"Thornton, Kathryn C.",STS-49,213.0,1990,1992,female,1952,U.S.,4,975.23
+490,"Thornton, Kathryn C.",STS-61,264.0,1990,1993,female,1952,U.S.,4,975.23
+491,"Thornton, Kathryn C.",STS-73,360.0,1990,1995,female,1952,U.S.,4,975.23
+492,"Wetherbee, James D.",STS-32,261.0,1990,1990,male,1952,U.S.,6,1594.38
+493,"Wetherbee, James D.",STS-52,236.0,1990,1992,male,1952,U.S.,6,1594.38
+494,"Wetherbee, James D.",STS-63,198.0,1990,1995,male,1952,U.S.,6,1594.38
+495,"Wetherbee, James D.",STS-86,259.0,1990,1997,male,1952,U.S.,6,1594.38
+496,"Wetherbee, James D.",STS-102,307.0,2000,2001,male,1952,U.S.,6,1594.38
+497,"Wetherbee, James D.",STS-113,330.0,2000,2002,male,1952,U.S.,6,1594.38
+498,"Ivins, Marsha S.",STS-32,261.0,1990,1990,female,1951,U.S.,5,1341.8
+499,"Ivins, Marsha S.",STS-46,191.0,1990,1992,female,1951,U.S.,5,1341.8
+500,"Ivins, Marsha S.",STS-62,335.0,1990,1994,female,1951,U.S.,5,1341.8
+501,"Ivins, Marsha S.",STS-81,244.0,1990,1997,female,1951,U.S.,5,1341.8
+502,"Ivins, Marsha S.",STS-98,309.0,2000,2001,female,1951,U.S.,5,1341.8
+503,"Low, G. David",STS-32,261.0,1990,1990,male,1956,U.S.,3,713.0
+504,"Low, G. David",STS-43,213.0,1990,1991,male,1956,U.S.,3,713.0
+505,"Low, G. David",STS-57,239.0,1990,1993,male,1956,U.S.,3,713.0
+506,"Balandin, Aleksandr",6,4297.0,1990,1990,male,1953,U.S.S.R/Russia,1,4297.28
+507,"Casper, John H.",STS-36,106.0,1990,1990,male,1943,U.S.,4,825.0
+508,"Casper, John H.",STS-54,143.0,1990,1993,male,1943,U.S.,4,825.0
+509,"Casper, John H.",STS-62,335.0,1990,1994,male,1943,U.S.,4,825.0
+510,"Casper, John H.",STS-77,241.0,1990,1996,male,1943,U.S.,4,825.0
+511,"Thuot, Pierre J.",STS-36,106.0,1990,1990,male,1955,U.S.,3,654.85
+512,"Thuot, Pierre J.",STS-49,213.0,1990,1992,male,1955,U.S.,3,654.85
+513,"Thuot, Pierre J.",STS-62,335.0,1990,1994,male,1955,U.S.,3,654.85
+514,"Manakov, Gennadi",7,3140.0,1990,1990,male,1950,U.S.S.R/Russia,2,7437.3
+515,"Manakov, Gennadi",13,4296.0,1990,1993,male,1950,U.S.S.R/Russia,2,7437.3
+516,"Cabana, Robert D.",STS-41,98.0,1990,1990,male,1949,U.S.,4,910.0
+517,"Cabana, Robert D.",STS-53,175.0,1990,1992,male,1949,U.S.,4,910.0
+518,"Cabana, Robert D.",STS-65,354.0,1990,1994,male,1949,U.S.,4,910.0
+519,"Cabana, Robert D.",STS-88,283.0,1990,1998,male,1949,U.S.,4,910.0
+520,"Melnick, Bruce E.",STS-41,98.0,1990,1990,male,1949,U.S.,2,311.0
+521,"Melnick, Bruce E.",STS-49,213.0,1990,1992,male,1949,U.S.,2,311.0
+522,"Akers, Thomas D.",STS-41,98.0,1990,1990,male,1951,U.S.,4,814.0
+523,"Akers, Thomas D.",STS-49,213.0,1990,1992,male,1951,U.S.,4,814.0
+524,"Akers, Thomas D.",STS-61,260.0,1990,1993,male,1951,U.S.,4,814.0
+525,"Akers, Thomas D.",STS-79,243.0,1990,1996,male,1951,U.S.,4,814.0
+526,"Culbertson, Frank L., Jr.",STS-38,118.0,1990,1990,male,1949,U.S.,3,3447.0
+527,"Culbertson, Frank L., Jr.",STS-51,236.0,1990,1993,male,1949,U.S.,3,3447.0
+528,"Culbertson, Frank L., Jr.",3,3093.0,2000,2001,male,1949,U.S.,3,3447.0
+529,"Meade, Carl J.",STS-38,117.0,1990,1990,male,1950,U.S.,3,710.0
+530,"Meade, Carl J.",STS-50,331.0,1990,1992,male,1950,U.S.,3,710.0
+531,"Meade, Carl J.",STS-64,262.0,1990,1994,male,1950,U.S.,3,710.0
+532,"Gemar, Charles D.",STS-38,118.0,1990,1990,male,1955,U.S.,3,581.5
+533,"Gemar, Charles D.",STS-48,128.5,1990,1991,male,1955,U.S.,3,581.5
+534,"Gemar, Charles D.",STS-62,335.0,1990,1994,male,1955,U.S.,3,581.5
+535,"Durrance, Samuel Thornton",Astro-1,215.15,1990,1990,male,1943,U.S.,2,614.69
+536,"Durrance, Samuel Thornton",Astro-2,399.54,1990,1995,male,1943,U.S.,2,614.69
+537,"Parise, Ronald Anthony",STS-35,215.15,1990,1990,male,1951,U.S.,2,614.69
+538,"Parise, Ronald Anthony",STS-67,399.54,1990,1995,male,1951,U.S.,2,614.69
+539,"Afanasyev, Viktor Mikhaylovich",8,4201.0,1990,1991,male,1948,U.S.S.R/Russia,4,13338.55
+540,"Afanasyev, Viktor Mikhaylovich",15,4368.0,1990,1994,male,1948,U.S.S.R/Russia,4,13338.55
+541,"Afanasyev, Viktor Mikhaylovich",27,4532.0,1990,1999,male,1948,U.S.S.R/Russia,4,13338.55
+542,"Afanasyev, Viktor Mikhaylovich",Soyuz TM­33/32,236.208,2000,2001,male,1948,U.S.S.R/Russia,4,13338.55
+543,"Akiyama, Toyohiro",Soyuz TM-11/10,189.9,1990,1990,male,1942,Japan,1,189.9
+544,"Cameron, Kenneth D.",STS-37,143.0,1990,1991,male,1949,U.S.,3,561.0
+545,"Cameron, Kenneth D.",STS-56,222.0,1990,1993,male,1949,U.S.,3,561.0
+546,"Cameron, Kenneth D.",STS-74,196.0,1990,1995,male,1949,U.S.,3,561.0
+547,"Godwin, Linda M.",STS-37,143.5,1990,1991,female,1952,U.S.,4,917.99
+548,"Godwin, Linda M.",STS-59,269.82,1990,1994,female,1952,U.S.,4,917.99
+549,"Godwin, Linda M.",STS-76,221.67,1990,1996,female,1952,U.S.,4,917.99
+550,"Godwin, Linda M.",STS-108,283.0,2000,2001,female,1952,U.S.,4,917.99
+551,"Apt, Jerome",STS-37,143.5,1990,1991,male,1949,U.S.,4,847.0
+552,"Apt, Jerome",STS-47,190.5,1990,1992,male,1949,U.S.,4,847.0
+553,"Apt, Jerome",STS-59,270.0,1990,1994,male,1949,U.S.,4,847.0
+554,"Apt, Jerome",STS-79,243.0,1990,1996,male,1949,U.S.,4,847.0
+555,"Hammond, L. Blaine, Jr.",STS-39,199.0,1990,1991,male,1952,U.S.,2,461.0
+556,"Hammond, L. Blaine, Jr.",STS-64,262.0,1990,1994,male,1952,U.S.,2,461.0
+557,"Harbaugh, Gregory J.",STS-39,199.0,1990,1991,male,1956,U.S.,4,816.0
+558,"Harbaugh, Gregory J.",STS-54,143.0,1990,1993,male,1956,U.S.,4,816.0
+559,"Harbaugh, Gregory J.",STS-71,235.0,1990,1995,male,1956,U.S.,4,816.0
+560,"Harbaugh, Gregory J.",STS-82,239.0,1990,1997,male,1956,U.S.,4,816.0
+561,"McMonagle, Donald R.",STS-39,199.0,1990,1991,male,1952,U.S.,3,604.0
+562,"McMonagle, Donald R.",STS-54,143.0,1990,1993,male,1952,U.S.,3,604.0
+563,"McMonagle, Donald R.",STS-66,262.0,1990,1994,male,1952,U.S.,3,604.0
+564,"Veach, Charles Lacy",STS-39,192.0,1990,1991,male,1944,U.S.,2,436.3
+565,"Veach, Charles Lacy",STS-52,240.0,1990,1992,male,1944,U.S.,2,436.3
+566,"Hieb, Richard J.",STS-39,199.0,1990,1991,male,1955,U.S.,3,765.0
+567,"Hieb, Richard J.",STS-49,213.0,1990,1992,male,1955,U.S.,3,765.0
+568,"Hieb, Richard J.",STS-65,353.0,1990,1994,male,1955,U.S.,3,765.0
+569,"Artsebarsky, Anatoly",9,3471.0,1990,1991,male,1956,U.S.S.R/Russia,1,3471.35
+570,Helen Sharman,Soyuz TM-12/11,189.22,1990,1991,female,1963,U.K.,1,189.22
+571,"Gutierrez, Sidney M.",STS-40,218.0,1990,1991,male,1951,U.S.,2,487.0
+572,"Gutierrez, Sidney M.",STS-59,269.0,1990,1994,male,1951,U.S.,2,487.0
+573,"Jernigan, Tamara E.",STS-40,218.0,1990,1991,female,1959,U.S.,5,1511.0
+574,"Jernigan, Tamara E.",STS-52,236.0,1990,1992,female,1959,U.S.,5,1511.0
+575,"Jernigan, Tamara E.",STS-67,399.0,1990,1995,female,1959,U.S.,5,1511.0
+576,"Jernigan, Tamara E.",STS-80,423.0,1990,1996,female,1959,U.S.,5,1511.0
+577,"Jernigan, Tamara E.",STS-96,235.0,1990,1999,female,1959,U.S.,5,1511.0
+578,"Gaffney, Andrew",STS-40,218.0,1990,1991,male,1946,U.S.,1,218.0
+579,"Hughes-Fulford, Millie Elizabeth",STS-40,218.37,1990,1991,female,1945,U.S.,1,218.37
+580,"Baker, Michael A.",STS-43,213.0,1990,1991,male,1953,U.S.,4,965.0
+581,"Baker, Michael A.",STS-52,237.0,1990,1992,male,1953,U.S.,4,965.0
+582,"Baker, Michael A.",STS-68,270.0,1990,1994,male,1953,U.S.,4,965.0
+583,"Baker, Michael A.",STS-81,245.0,1990,1997,male,1953,U.S.,4,965.0
+584,"Reightler, Kenneth S., Jr.",STS-48,120.0,1990,1991,male,1951,U.S.,2,312.0
+585,"Reightler, Kenneth S., Jr.",STS-60,192.0,1990,1994,male,1951,U.S.,2,312.0
+586,"Aubakirov, Toktar",10,190.0,1990,1991,male,1946,U.S.S.R/Russia,1,190.2
+587,"Viehbock, Franz",Soyuz TM13/12,190.2,1990,1991,male,1960,Austria,1,190.2
+588,"Henricks, Terence T.",STS-44,166.0,1990,1991,male,1952,U.S.,4,190.75
+589,"Henricks, Terence T.",STS-55,239.0,1990,1993,male,1952,U.S.,4,190.75
+590,"Henricks, Terence T.",STS-70,214.0,1990,1995,male,1952,U.S.,4,190.75
+591,"Henricks, Terence T.",STS-78,405.0,1990,1996,male,1952,U.S.,4,190.75
+592,"Voss, James S.",STS-44,166.0,1990,1991,male,1949,U.S.,5,1000.0
+593,"Voss, James S.",STS-53,175.0,1990,1992,male,1949,U.S.,5,1000.0
+594,"Voss, James S.",STS-69,260.0,1990,1995,male,1949,U.S.,5,1000.0
+595,"Voss, James S.",STS-101,236.0,2000,2000,male,1949,U.S.,5,1000.0
+596,"Voss, James S.",2,163.0,2000,2001,male,1949,U.S.,5,1000.0
+597,"Runco, Mario, Jr.",STS-44,166.0,1990,1991,male,1952,U.S.,3,549.0
+598,"Runco, Mario, Jr.",STS-54,143.0,1990,1993,male,1952,U.S.,3,549.0
+599,"Runco, Mario, Jr.",STS-77,240.0,1990,1996,male,1952,U.S.,3,549.0
+600,"Hennen, Thomas John",STS-44,167.11,1990,1991,male,1952,U.S.,1,167.11
+601,"Oswald, Stephen S.",STS-42,193.0,1990,1992,male,1951,U.S.,3,814.0
+602,"Oswald, Stephen S.",STS-67,222.0,1990,1993,male,1951,U.S.,3,814.0
+603,"Oswald, Stephen S.",STS-42,399.0,1990,1995,male,1951,U.S.,3,814.0
+604,"Readdy, William F.",STS-42,193.0,1990,1992,male,1952,U.S.,3,672.0
+605,"Readdy, William F.",STS-51,236.0,1990,1993,male,1952,U.S.,3,672.0
+606,"Readdy, William F.",STS-79,243.0,1990,1996,male,1952,U.S.,3,672.0
+607,"Bondar, Roberta Lynn",STS-42,193.77,1990,1992,female,1945,Canada,1,193.77
+608,"Kaleri, Aleksandr",11,3494.0,1990,1992,male,1956,U.S.S.R/Russia,5,18462.62
+609,"Kaleri, Aleksandr",21,4721.0,1990,1996,male,1956,U.S.S.R/Russia,5,18462.62
+610,"Kaleri, Aleksandr",28,1747.0,2000,2000,male,1956,U.S.S.R/Russia,5,18462.62
+611,"Kaleri, Aleksandr",8,4674.0,2000,2003,male,1956,U.S.S.R/Russia,5,18462.62
+612,"Kaleri, Aleksandr",25,3824.0,2010,2010,male,1956,U.S.S.R/Russia,5,18462.62
+613,"Flade, Klaus-Dietrich",Soyuz TM-14/13,189.95,1990,1992,male,1952,Germany,1,189.95
+614,"Duffy, Brian",STS-45,214.0,1990,1992,male,1953,U.S.,4,976.0
+615,"Duffy, Brian",STS-57,240.0,1990,1993,male,1953,U.S.,4,976.0
+616,"Duffy, Brian",STS-72,214.0,1990,1996,male,1953,U.S.,4,976.0
+617,"Duffy, Brian",STS-92,310.0,2000,2000,male,1953,U.S.,4,976.0
+618,"Foale, C. Michael",STS-45,214.0,1990,1992,male,1957,U.S.,6,8976.0
+619,"Foale, C. Michael",STS-56,222.0,1990,1993,male,1957,U.S.,6,8976.0
+620,"Foale, C. Michael",STS-63,198.5,1990,1995,male,1957,U.S.,6,8976.0
+621,"Foale, C. Michael",23,3470.0,1990,1997,male,1957,U.S.,6,8976.0
+622,"Foale, C. Michael",STS-103,191.0,1990,1999,male,1957,U.S.,6,8976.0
+623,"Foale, C. Michael",8,4674.5,2000,2003,male,1957,U.S.,6,8976.0
+624,"Frimout, David",STS-45,214.15,1990,1992,male,1941,Belgium,1,214.15
+625,"Chilton, Kevin P.",STS-49,213.0,1990,1992,male,1954,U.S.,3,704.0
+626,"Chilton, Kevin P.",STS-59,270.0,1990,1994,male,1954,U.S.,3,704.0
+627,"Chilton, Kevin P.",STS-76,221.0,1990,1996,male,1954,U.S.,3,704.0
+628,"Bowersox, Kenneth D.",STS-50,331.0,1990,1992,male,1956,U.S.,5,5304.0
+629,"Bowersox, Kenneth D.",STS-61,260.0,1990,1993,male,1956,U.S.,5,5304.0
+630,"Bowersox, Kenneth D.",STS-73,382.0,1990,1995,male,1956,U.S.,5,5304.0
+631,"Bowersox, Kenneth D.",STS-82,239.0,1990,1997,male,1956,U.S.,5,5304.0
+632,"Bowersox, Kenneth D.",6,3865.0,2000,2002,male,1956,U.S.,5,5304.0
+633,"DeLucas, Lawrence James",STS-50,331.53,1990,1992,male,1950,U.S.,1,331.53
+634,"Trinh, Eugene Huu-Chau",STS-50,331.53,1990,1992,male,1950,U.S.,1,331.53
+635,"Avdeyev, Sergei",12,4533.0,1990,1993,male,1956,U.S.S.R/Russia,3,17942.23
+636,"Avdeyev, Sergei",20,4297.0,1990,1995,male,1956,U.S.S.R/Russia,3,17942.23
+637,"Avdeyev, Sergei",26,9110.0,1990,1998,male,1956,U.S.S.R/Russia,3,17942.23
+638,"Tognini, Michel",Antares,331.0,1990,1992,male,1949,France,2,449.77
+639,"Tognini, Michel",STS-93,118.8,1990,1999,male,1949,France,2,449.77
+640,"Allen, Andrew M.",STS-46,191.0,1990,1992,male,1955,U.S.,3,904.0
+641,"Allen, Andrew M.",STS-62,335.0,1990,1994,male,1955,U.S.,3,904.0
+642,"Allen, Andrew M.",STS-75,378.0,1990,1996,male,1955,U.S.,3,904.0
+643,"Nicollier, Claude",STS-46,191.25,1990,1992,male,1944,Switzerland,4,1184.07
+644,"Nicollier, Claude",STS-61-A,259.97,1990,1993,male,1944,Switzerland,4,1184.07
+645,"Nicollier, Claude",STS-75,541.67,1990,1996,male,1944,Switzerland,4,1184.07
+646,"Nicollier, Claude",STS-103,191.18,1990,1999,male,1944,Switzerland,4,1184.07
+647,Franco Malerba,sts-46,191.25,1990,1992,male,1946,Italy,1,191.25
+648,"Brown, Curtis L., Jr.",STS-47,190.5,1990,1992,male,1956,U.S.,6,1381.0
+649,"Brown, Curtis L., Jr.",STS-66,262.5,1990,1994,male,1956,U.S.,6,1381.0
+650,"Brown, Curtis L., Jr.",STS-77,240.5,1990,1996,male,1956,U.S.,6,1381.0
+651,"Brown, Curtis L., Jr.",STS-85,284.5,1990,1997,male,1956,U.S.,6,1381.0
+652,"Brown, Curtis L., Jr.",STS-95,213.5,1990,1998,male,1956,U.S.,6,1381.0
+653,"Brown, Curtis L., Jr.",STS-103,191.0,1990,1999,male,1956,U.S.,6,1381.0
+654,"Davis, Nancy Jan",STS-47,190.5,1990,1992,female,1953,U.S.,3,673.0
+655,"Davis, Nancy Jan",STS-60,199.0,1990,1994,female,1953,U.S.,3,673.0
+656,"Davis, Nancy Jan",STS-85,284.0,1990,1997,female,1953,U.S.,3,673.0
+657,"Jemison, Mae C.",STS-47,190.5,1990,1992,female,1956,U.S.,1,190.5
+658,"Mohri, Mamoru",STS-47,190.5,1990,1992,male,1948,Japan,2,190.5
+659,"Mohri, Mamoru",STS-99,269.7,2000,2000,male,1948,Japan,2,190.5
+660,Steven MacLean,STS-52,236.93,1990,1992,male,1954,Canada,2,520.03
+661,Steven MacLean,STS-115,283.1,2000,2006,male,1954,Canada,2,520.03
+662,"Clifford, Michael R.",STS-53,175.0,1990,1992,male,1952,U.S.,3,666.0
+663,"Clifford, Michael R.",STS-59,270.0,1990,1994,male,1952,U.S.,3,666.0
+664,"Clifford, Michael R.",STS-76,221.0,1990,1996,male,1952,U.S.,3,666.0
+665,"Helms, Susan J.",STS-54,143.0,1990,1993,female,1958,U.S.,5,5054.0
+666,"Helms, Susan J.",STS-64,262.0,1990,1994,female,1958,U.S.,5,5054.0
+667,"Helms, Susan J.",STS-78,405.0,1990,1996,female,1958,U.S.,5,5054.0
+668,"Helms, Susan J.",STS-101,237.0,2000,2000,female,1958,U.S.,5,5054.0
+669,"Helms, Susan J.",2,4007.0,2000,2001,female,1958,U.S.,5,5054.0
+670,"Poleshchuk, Aleksandr",13,4296.0,1990,1993,male,1953,U.S.S.R/Russia,1,4296.72
+671,"Cockrell, Kenneth D.",STS-56,222.0,1990,1993,male,1950,U.S.,5,1560.0
+672,"Cockrell, Kenneth D.",STS-69,260.5,1990,1995,male,1950,U.S.,5,1560.0
+673,"Cockrell, Kenneth D.",STS-80,424.0,1990,1996,male,1950,U.S.,5,1560.0
+674,"Cockrell, Kenneth D.",STS-98,309.0,2000,2001,male,1950,U.S.,5,1560.0
+675,"Cockrell, Kenneth D.",STS-111,333.0,2000,2002,male,1950,U.S.,5,1560.0
+676,"Ochoa, Ellen",STS-56,222.0,1990,1993,female,1958,U.S.,4,978.0
+677,"Ochoa, Ellen",STS-66,263.0,1990,1994,female,1958,U.S.,4,978.0
+678,"Ochoa, Ellen",STS-96,235.0,1990,1999,female,1958,U.S.,4,978.0
+679,"Ochoa, Ellen",STS-110,260.0,2000,2002,female,1958,U.S.,4,978.0
+680,"Precourt, Charles J., Jr.",STS-55,240.0,1990,1993,male,1955,U.S.,4,932.0
+681,"Precourt, Charles J., Jr.",STS-71,235.0,1990,1995,male,1955,U.S.,4,932.0
+682,"Precourt, Charles J., Jr.",STS-84,221.0,1990,1997,male,1955,U.S.,4,932.0
+683,"Precourt, Charles J., Jr.",STS-91,235.0,1990,1998,male,1955,U.S.,4,932.0
+684,"Harris, Bernard A., Jr.",STS-55,239.0,1990,1993,male,1956,U.S.,2,437.0
+685,"Harris, Bernard A., Jr.",STS-63,198.0,1990,1995,male,1956,U.S.,2,437.0
+686,"Walter, Ulrich",STS-55,239.67,1990,1993,male,1954,Germany,1,239.67
+687,"Schlegel, Hans",STS-55,240.0,1990,1993,male,1951,Germany,2,546.0
+688,"Schlegel, Hans",STS-122,306.0,2000,2008,male,1951,Germany,2,546.0
+689,"Currie, Nancy J.",STS-57,240.0,1990,1993,female,1958,U.S.,4,999.0
+690,"Currie, Nancy J.",STS-70,214.0,1990,1995,female,1958,U.S.,4,999.0
+691,"Currie, Nancy J.",STS-88,283.0,1990,1998,female,1958,U.S.,4,999.0
+692,"Currie, Nancy J.",STS-109,262.0,2000,2002,female,1958,U.S.,4,999.0
+693,"Wisoff, Peter J. K.",STS-57,239.0,1990,1993,male,1958,U.S.,4,1064.15
+694,"Wisoff, Peter J. K.",STS-68,269.0,1990,1994,male,1958,U.S.,4,1064.15
+695,"Wisoff, Peter J. K.",STS-81,240.0,1990,1997,male,1958,U.S.,4,1064.15
+696,"Wisoff, Peter J. K.",STS-92,309.0,2000,2000,male,1958,U.S.,4,1064.15
+697,"Voss, Janice E.",STS-57,239.73,1990,1993,female,1956,U.S.,5,1199.81
+698,"Voss, Janice E.",STS-63,198.47,1990,1995,female,1956,U.S.,5,1199.81
+699,"Voss, Janice E.",STS-83,95.21,1990,1997,female,1956,U.S.,5,1199.81
+700,"Voss, Janice E.",STS-94,396.8,1990,1997,female,1956,U.S.,5,1199.81
+701,"Voss, Janice E.",STS-99,269.6,2000,2000,female,1956,U.S.,5,1199.81
+702,"Tsibliyev, Vasili",14,4721.0,1990,1993,male,1954,U.S.S.R/Russia,2,9159.87
+703,"Tsibliyev, Vasili",23,4438.0,1990,1997,male,1954,U.S.S.R/Russia,2,9159.87
+704,"Haigneré, Jean-Pierre",Soyuz TM-17 / Soyuz TM-16,496.0,1990,1993,male,1948,France,2,5028.0
+705,"Haigneré, Jean-Pierre",27,4532.0,1990,1999,male,1948,France,2,5028.0
+706,"Newman, James H.",STS-51,236.0,1990,1993,male,1956,U.S.,4,1032.0
+707,"Newman, James H.",STS-69,260.0,1990,1995,male,1956,U.S.,4,1032.0
+708,"Newman, James H.",STS-88,283.0,1990,1998,male,1956,U.S.,4,1032.0
+709,"Newman, James H.",STS-109,262.0,2000,2002,male,1956,U.S.,4,1032.0
+710,"Bursch, Daniel W.",STS-51,236.0,1990,1993,male,1957,U.S.,4,5448.0
+711,"Bursch, Daniel W.",STS-68,169.0,1990,1994,male,1957,U.S.,4,5448.0
+712,"Bursch, Daniel W.",STS-77,241.0,1990,1996,male,1957,U.S.,4,5448.0
+713,"Bursch, Daniel W.",4,4802.0,2000,2001,male,1957,U.S.,4,5448.0
+714,"Walz, Carl E.",STS-51,236.18,1990,1993,male,1955,U.S.,4,5533.06
+715,"Walz, Carl E.",STS-65,360.0,1990,1994,male,1955,U.S.,4,5533.06
+716,"Walz, Carl E.",STS-79,243.0,1990,1996,male,1955,U.S.,4,5533.06
+717,"Walz, Carl E.",4,4704.0,2000,2001,male,1955,U.S.,4,5533.06
+718,"Searfoss, Richard A.",STS-58,338.0,1990,1993,male,1956,U.S.,3,938.0
+719,"Searfoss, Richard A.",STS-76,216.0,1990,1996,male,1956,U.S.,3,938.0
+720,"Searfoss, Richard A.",STS-90,384.0,1990,1998,male,1956,U.S.,3,938.0
+721,"McArthur, William S., Jr.",STS-58,336.0,1990,1993,male,1951,U.S.,4,5396.0
+722,"McArthur, William S., Jr.",STS-74,196.0,1990,1995,male,1951,U.S.,4,5396.0
+723,"McArthur, William S., Jr.",STS-92,309.0,2000,2000,male,1951,U.S.,4,5396.0
+724,"McArthur, William S., Jr.",12,4555.0,2000,2006,male,1951,U.S.,4,5396.0
+725,"Wolf, David A.",STS-58,336.0,1990,1993,male,1956,U.S.,4,4040.95
+726,"Wolf, David A.",24,3072.0,1990,1997,male,1956,U.S.,4,4040.95
+727,"Wolf, David A.",STS-112,259.0,2000,2002,male,1956,U.S.,4,4040.95
+728,"Wolf, David A.",STS-127,376.0,2000,2009,male,1956,U.S.,4,4040.95
+729,"Fettman, Martin Joseph",STS-58,336.47,1990,1993,male,1956,U.S.,1,336.47
+730,Yuri Vladimirovich Usachyov,Mir EO-15,4368.45,1990,1994,male,1957,U.S.S.R/Russia,4,13270.42
+731,Yuri Vladimirovich Usachyov,Mir EO-21,4651.12,1990,1996,male,1957,U.S.S.R/Russia,4,13270.42
+732,Yuri Vladimirovich Usachyov,STS 101,236.17,2000,2000,male,1957,U.S.S.R/Russia,4,13270.42
+733,Yuri Vladimirovich Usachyov,2,4014.68,2000,2001,male,1957,U.S.S.R/Russia,4,13270.42
+734,"Sega, Ronald M.",STS-60,199.0,1990,1994,male,1952,U.S.,2,420.0
+735,"Sega, Ronald M.",STS-76,221.0,1990,1996,male,1952,U.S.,2,420.0
+736,"Jones, Thomas D.",STS-59,269.0,1990,1994,male,1955,U.S.,4,1272.82
+737,"Jones, Thomas D.",STS-68,269.0,1990,1994,male,1955,U.S.,4,1272.82
+738,"Jones, Thomas D.",STS-80,423.0,1990,1996,male,1955,U.S.,4,1272.82
+739,"Jones, Thomas D.",STS-98,309.0,2000,2001,male,1955,U.S.,4,1272.82
+740,"Malenchenko, Yuri",16,3022.0,1990,1994,male,1961,U.S.S.R/Russia,6,16872.47
+741,"Malenchenko, Yuri",STS­106,283.0,2000,2000,male,1961,U.S.S.R/Russia,6,16872.47
+742,"Malenchenko, Yuri",7,4438.0,2000,2003,male,1961,U.S.S.R/Russia,6,16872.47
+743,"Malenchenko, Yuri",16,4603.0,2000,2007,male,1961,U.S.S.R/Russia,6,16872.47
+744,"Malenchenko, Yuri",32,3047.0,2010,2012,male,1961,U.S.S.R/Russia,6,16872.47
+745,"Malenchenko, Yuri",46,1477.0,2010,2015,male,1961,U.S.S.R/Russia,6,16872.47
+746,"Musabayev, Talgat",16,3002.0,1990,1994,male,1951,U.S.S.R/Russia,3,8193.8
+747,"Musabayev, Talgat",25,4980.0,1990,1998,male,1951,U.S.S.R/Russia,3,8193.8
+748,"Musabayev, Talgat",Soyuz TM­32/31,190.0,2000,2001,male,1951,U.S.S.R/Russia,3,8193.8
+749,"Halsell, James D., Jr.",STS-65,353.0,1990,1994,male,1956,U.S.,5,1257.0
+750,"Halsell, James D., Jr.",STS-74,196.0,1990,1995,male,1956,U.S.,5,1257.0
+751,"Halsell, James D., Jr.",STS-83,95.0,1990,1997,male,1956,U.S.,5,1257.0
+752,"Halsell, James D., Jr.",STS-94,376.0,1990,1997,male,1956,U.S.,5,1257.0
+753,"Halsell, James D., Jr.",STS-101,237.0,2000,2000,male,1956,U.S.,5,1257.0
+754,"Chiao, Leroy",STS-65,354.0,1990,1994,male,1960,U.S.,4,5503.0
+755,"Chiao, Leroy",STS-72,214.0,1990,1996,male,1960,U.S.,4,5503.0
+756,"Chiao, Leroy",STS-92,310.0,2000,2000,male,1960,U.S.,4,5503.0
+757,"Chiao, Leroy",10,4627.0,2000,2004,male,1960,U.S.,4,5503.0
+758,"Thomas, Donald A.",STS-65,353.0,1990,1994,male,1955,U.S.,4,1038.0
+759,"Thomas, Donald A.",STS-70,214.0,1990,1995,male,1955,U.S.,4,1038.0
+760,"Thomas, Donald A.",STS-83,95.0,1990,1997,male,1955,U.S.,4,1038.0
+761,"Thomas, Donald A.",STS-94,376.0,1990,1997,male,1955,U.S.,4,1038.0
+762,"Mukai, Chiaki",STS-65,354.0,1990,1994,female,1952,Japan,2,568.0
+763,"Mukai, Chiaki",STS-95,214.0,1990,1998,female,1952,Japan,2,568.0
+764,"Linenger, Jerry M.",STS-64,262.0,1990,1994,male,1955,U.S.,2,3218.83
+765,"Linenger, Jerry M.",22,3172.0,1990,1997,male,1955,U.S.,2,3218.83
+766,"Wilcutt, Terrence W.",STS-68,269.0,1990,1994,male,1949,U.S.,4,1008.0
+767,"Wilcutt, Terrence W.",STS-79,243.0,1990,1996,male,1949,U.S.,4,1008.0
+768,"Wilcutt, Terrence W.",STS-89,211.0,1990,1998,male,1949,U.S.,4,1008.0
+769,"Wilcutt, Terrence W.",STS-106,283.0,2000,2000,male,1949,U.S.,4,1008.0
+770,"Smith, Steven L.",STS-68,264.0,1990,1994,male,1958,U.S.,4,960.0
+771,"Smith, Steven L.",STS-82,240.0,1990,1997,male,1958,U.S.,4,960.0
+772,"Smith, Steven L.",STS-103,192.0,1990,1999,male,1958,U.S.,4,960.0
+773,"Smith, Steven L.",STS-110,264.0,2000,2002,male,1958,U.S.,4,960.0
+774,"Kondakova, Yelena V.",17,4061.0,1990,1994,female,1957,U.S.S.R/Russia,2,4282.68
+775,"Kondakova, Yelena V.",23,221.0,1990,1997,female,1957,U.S.S.R/Russia,2,4282.68
+776,"Tanner, Joseph R.",STS-66,262.0,1990,1994,male,1950,U.S.,4,1045.25
+777,"Tanner, Joseph R.",STS-82,239.0,1990,1997,male,1950,U.S.,4,1045.25
+778,"Tanner, Joseph R.",STS-97,259.0,2000,2000,male,1950,U.S.,4,1045.25
+779,"Tanner, Joseph R.",STS-115,283.0,2000,2006,male,1950,U.S.,4,1045.25
+780,"Clervoy, Jean-François",STS-66,263.0,1990,1994,male,1958,France,3,675.1
+781,"Clervoy, Jean-François",STS-84,221.1,1990,1997,male,1958,France,3,675.1
+782,"Clervoy, Jean-François",STS-103,191.0,1990,1999,male,1958,France,3,675.1
+783,"Parazynski, Scott E.",STS-66,262.0,1990,1994,male,1961,U.S.,5,1379.0
+784,"Parazynski, Scott E.",STS-86,259.0,1990,1997,male,1961,U.S.,5,1379.0
+785,"Parazynski, Scott E.",STS-95,213.0,1990,1998,male,1961,U.S.,5,1379.0
+786,"Parazynski, Scott E.",STS-100,283.0,2000,2001,male,1961,U.S.,5,1379.0
+787,"Parazynski, Scott E.",STS-120,362.0,2000,2007,male,1961,U.S.,5,1379.0
+788,"Collins, Eileen M.",STS-63,198.5,1990,1995,female,1956,U.S.,4,872.0
+789,"Collins, Eileen M.",STS-84,120.0,1990,1997,female,1956,U.S.,4,872.0
+790,"Collins, Eileen M.",STS-93,119.0,1990,1999,female,1956,U.S.,4,872.0
+791,"Collins, Eileen M.",STS-114,333.0,2000,2005,female,1956,U.S.,4,872.0
+792,"Gregory, William G.",STS-67,399.0,1990,1995,male,1957,U.S.,1,399.0
+793,"Grunsfeld, John M.",STS-67,399.0,1990,1995,male,1958,U.S.,5,1405.0
+794,"Grunsfeld, John M.",STS-81,244.0,1990,1997,male,1958,U.S.,5,1405.0
+795,"Grunsfeld, John M.",STS-103,191.0,1990,1999,male,1958,U.S.,5,1405.0
+796,"Grunsfeld, John M.",STS-109,262.0,2000,2002,male,1958,U.S.,5,1405.0
+797,"Grunsfeld, John M.",STS-125,309.0,2000,2009,male,1958,U.S.,5,1405.0
+798,"Lawrence, Wendy B.",STS-67,399.0,1990,1995,female,1959,U.S.,4,1226.0
+799,"Lawrence, Wendy B.",STS-86,259.0,1990,1997,female,1959,U.S.,4,1226.0
+800,"Lawrence, Wendy B.",STS-91,235.0,1990,1998,female,1959,U.S.,4,1226.0
+801,"Lawrence, Wendy B.",STS-114,333.0,2000,2005,female,1959,U.S.,4,1226.0
+802,"Dezhurov, Vladimir N.",18,2768.0,1990,1995,male,1962,U.S.S.R/Russia,2,5861.47
+803,"Dezhurov, Vladimir N.",3,3092.0,2000,2001,male,1962,U.S.S.R/Russia,2,5861.47
+804,"Budarin, Nikolai",19,1811.0,1990,1995,male,1953,U.S.S.R/Russia,3,10657.42
+805,"Budarin, Nikolai",25,4980.0,1990,1998,male,1953,U.S.S.R/Russia,3,10657.42
+806,"Budarin, Nikolai",6,3865.0,2000,2002,male,1953,U.S.S.R/Russia,3,10657.42
+807,Kregel Kevin R.,STS-70,214.0,1990,1995,male,1956,U.S.,4,1266.35
+808,Kregel Kevin R.,STS-78,405.0,1990,1996,male,1956,U.S.,4,1266.35
+809,Kregel Kevin R.,STS-87,376.0,1990,1997,male,1956,U.S.,4,1266.35
+810,Kregel Kevin R.,STS-99,269.0,2000,2000,male,1956,U.S.,4,1266.35
+811,"Weber, Mary E.",STS-70,236.0,1990,1995,female,1962,U.S.,2,450.5
+812,"Weber, Mary E.",STS-101,214.0,2000,2000,female,1962,U.S.,2,450.5
+813,"Gidzenko, Yuri",20,4297.0,1990,1995,male,1962,U.S.S.R/Russia,3,7918.73
+814,"Gidzenko, Yuri",1,3383.0,2000,2000,male,1962,U.S.S.R/Russia,3,7918.73
+815,"Gidzenko, Yuri",Soyuz  3,237.0,2000,2002,male,1962,U.S.S.R/Russia,3,7918.73
+816,"Reiter, Thomas",20,4297.6,1990,1995,male,1958,Germany,2,8405.58
+817,"Reiter, Thomas",13,4108.0,2000,2006,male,1958,Germany,2,8405.58
+818,"Gernhardt, Michael L.",STS-69,260.5,1990,1995,male,1956,U.S.,4,1039.05
+819,"Gernhardt, Michael L.",STS-83,95.2,1990,1997,male,1956,U.S.,4,1039.05
+820,"Gernhardt, Michael L.",STS-94,376.75,1990,1997,male,1956,U.S.,4,1039.05
+821,"Gernhardt, Michael L.",STS-104,306.6,2000,2001,male,1956,U.S.,4,1039.05
+822,"Rominger, Kent V.",STS-73,381.0,1990,1995,male,1956,U.S.,5,1608.0
+823,"Rominger, Kent V.",STS-80,423.0,1990,1996,male,1956,U.S.,5,1608.0
+824,"Rominger, Kent V.",STS-85,55.0,1990,1997,male,1956,U.S.,5,1608.0
+825,"Rominger, Kent V.",STS-96,235.0,1990,1999,male,1956,U.S.,5,1608.0
+826,"Rominger, Kent V.",STS-100,285.0,2000,2001,male,1956,U.S.,5,1608.0
+827,"Coleman, Catherine G.",STS-73,382.0,1990,1995,female,1960,U.S.,3,500.0
+828,"Coleman, Catherine G.",STS-93,119.0,1990,1999,female,1960,U.S.,3,500.0
+829,"Coleman, Catherine G.",26,3823.0,2010,2011,female,1960,U.S.,3,500.0
+830,"Lopez-Alegria, Michael E.",STS-73,381.0,1990,1995,male,1958,U.S.,4,6190.67
+831,"Lopez-Alegria, Michael E.",STS-92,309.0,2000,2000,male,1958,U.S.,4,6190.67
+832,"Lopez-Alegria, Michael E.",STS-113,330.0,2000,2002,male,1958,U.S.,4,6190.67
+833,"Lopez-Alegria, Michael E.",14,5168.0,2000,2007,male,1958,U.S.,4,6190.67
+834,"Leslie, Fred Weldon",STS-73,382.02,1990,1995,male,1951,U.S.,1,382.02
+835,"Sacco, Albert Jr.",STS-73,382.02,1990,1995,male,1949,U.S.,1,382.02
+836,Chris Hadfield,STS-74,196.5,1990,1995,male,1959,Canada,3,4191.82
+837,Chris Hadfield,STS-100,285.5,2000,2001,male,1959,Canada,3,4191.82
+838,Chris Hadfield,34,3710.32,2010,2012,male,1959,Canada,3,4191.82
+839,"Jett, Brent W.",STS-72,214.0,1990,1996,male,1958,U.S.,4,1002.02
+840,"Jett, Brent W.",STS-81,244.0,1990,1997,male,1958,U.S.,4,1002.02
+841,"Jett, Brent W.",STS-97,259.0,2000,2000,male,1958,U.S.,4,1002.02
+842,"Jett, Brent W.",STS-115,283.0,2000,2006,male,1958,U.S.,4,1002.02
+843,"Scott, Winston E.",STS-72,214.0,1990,1996,male,1950,U.S.,2,590.0
+844,"Scott, Winston E.",STS-87,376.0,1990,1997,male,1950,U.S.,2,590.0
+845,"Wakata, Koichi",STS-72,214.0,1990,1996,male,1963,Japan,4,8336.5
+846,"Wakata, Koichi",STS-92,309.75,2000,2000,male,1963,Japan,4,8336.5
+847,"Wakata, Koichi",18,3303.0,2000,2009,male,1963,Japan,4,8336.5
+848,"Wakata, Koichi",38,4509.75,2010,2013,male,1963,Japan,4,8336.5
+849,"Barry, Daniel T.",STS-72,214.0,1990,1996,male,1953,U.S.,3,734.0
+850,"Barry, Daniel T.",STS-96,235.0,1990,1999,male,1953,U.S.,3,734.0
+851,"Barry, Daniel T.",STS-105,285.0,2000,2001,male,1953,U.S.,3,734.0
+852,"Onufrienko, Yuri",21,4651.0,1990,1996,male,1961,U.S.S.R/Russia,2,9350.77
+853,"Onufrienko, Yuri",4,4699.0,2000,2001,male,1961,U.S.S.R/Russia,2,9350.77
+854,"Horowitz, Scott J.",STS-75,378.0,1990,1996,male,1957,U.S.,4,1138.68
+855,"Horowitz, Scott J.",STS-82,277.0,1990,1997,male,1957,U.S.,4,1138.68
+856,"Horowitz, Scott J.",STS-101,237.0,2000,2000,male,1957,U.S.,4,1138.68
+857,"Horowitz, Scott J.",STS-105,285.0,2000,2001,male,1957,U.S.,4,1138.68
+858,"Cheli, Maurizio",STS-75,377.68,1990,1996,male,1959,Italy,1,377.68
+859,"Guidoni, Umberto",STS-75,377.67,1990,1996,male,1954,Italy,2,663.17
+860,"Guidoni, Umberto",STS-100,285.5,2000,2001,male,1954,Italy,2,663.17
+861,"Thomas, Andrew S. W.",STS-77,240.0,1980,1983,male,1951,Australia,4,4264.0
+862,"Thomas, Andrew S. W.",24,3384.0,1990,1998,male,1951,Australia,4,4264.0
+863,"Thomas, Andrew S. W.",STS-102,307.0,2000,2001,male,1951,Australia,4,4264.0
+864,"Thomas, Andrew S. W.",STS-114,333.0,2000,2005,male,1951,Australia,4,4264.0
+865,"Linnehan, Richard M.",STS-78,405.0,1990,1996,male,1957,U.S.,4,1427.0
+866,"Linnehan, Richard M.",STS-90,382.0,1990,1998,male,1957,U.S.,4,1427.0
+867,"Linnehan, Richard M.",STS-109,262.0,2000,2002,male,1957,U.S.,4,1427.0
+868,"Linnehan, Richard M.",STS-123,378.0,2000,2008,male,1957,U.S.,4,1427.0
+869,"Brady, Charles E., Jr.",STS-78,405.0,1990,1996,male,1951,U.S.,1,405.0
+870,"Favier, Jean-Jacques",STS-78,405.8,1990,1996,male,1949,France,1,405.8
+871,Robert Thirsk,STS-78,405.8,1990,1996,male,1953,Canada,2,4917.8
+872,Robert Thirsk,20,4512.0,2000,2009,male,1953,Canada,2,4917.8
+873,"Korzun, Valery",22,4721.0,1990,1996,male,1953,U.S.S.R/Russia,2,9159.68
+874,"Korzun, Valery",5,4438.0,2000,2002,male,1953,U.S.S.R/Russia,2,9159.68
+875,"André-Deshays, Claudie (Haigneré)",Soyuz TM-24/23,378.4,1990,1996,female,1957,France,2,614.37
+876,"André-Deshays, Claudie (Haigneré)",Soyuz TM-33/32,236.0,2000,2001,female,1957,France,2,614.37
+877,"Lazutkin, Aleksandr",23,4438.0,1990,1997,male,1957,U.S.S.R/Russia,1,4438.12
+878,"Ewald, Reinhold",Soyuz TM-25/24,472.57,1990,1997,male,1956,Germany,1,472.57
+879,"Kilrain-Still, Susan L.",STS-83,95.0,1990,1997,female,1961,U.S.,2,471.0
+880,"Kilrain-Still, Susan L.",STS-94,376.0,1990,1997,female,1961,U.S.,2,471.0
+881,"Crouch, Roger Keith",STS-83,95.54,1990,1997,male,1940,U.S.,2,4576.07
+882,"Crouch, Roger Keith",STS-94,377.01,1990,1997,male,1940,U.S.,2,4576.07
+883,"Linteris, Gregory Thomas",STS-83,95.54,1990,1997,male,1957,U.S.,2,4576.07
+884,"Linteris, Gregory Thomas",STS-94,377.01,1990,1997,male,1957,U.S.,2,4576.07
+885,"Noriega, Carlos I.",STS-84,221.0,1990,1997,male,1959,U.S.,2,481.0
+886,"Noriega, Carlos I.",STS-97,260.0,2000,2000,male,1959,U.S.,2,481.0
+887,"Lu, Edward T.",STS-84,221.0,1990,1997,male,1963,U.S.,3,4943.3
+888,"Lu, Edward T.",STS-106,283.0,2000,2000,male,1963,U.S.,3,4943.3
+889,"Lu, Edward T.",7,4439.0,2000,2003,male,1963,U.S.,3,4943.3
+890,"Vinogradov, Pavel",24,4745.0,1990,1997,male,1953,U.S.S.R/Russia,3,13126.53
+891,"Vinogradov, Pavel",13,4390.0,2000,2006,male,1953,U.S.S.R/Russia,3,13126.53
+892,"Vinogradov, Pavel",35,3990.0,2010,2013,male,1953,U.S.S.R/Russia,3,13126.53
+893,"Curbeam, Robert L., Jr.",STS-85,284.0,1990,1997,male,1962,U.S.,3,902.0
+894,"Curbeam, Robert L., Jr.",STS-98,309.0,2000,2001,male,1962,U.S.,3,902.0
+895,"Curbeam, Robert L., Jr.",STS-116,309.0,2000,2006,male,1962,U.S.,3,902.0
+896,"Robinson, Stephen K.",STS-85,284.0,1990,1997,male,1955,U.S.,4,1156.0
+897,"Robinson, Stephen K.",STS-95,213.0,1990,1998,male,1955,U.S.,4,1156.0
+898,"Robinson, Stephen K.",STS-114,333.0,2000,2005,male,1955,U.S.,4,1156.0
+899,"Robinson, Stephen K.",STS-130,330.0,2010,2010,male,1955,U.S.,4,1156.0
+900,Bjarni Tryggvason,STS-85,284.0,1990,1997,male,1945,Canada,1,284.0
+901,"Bloomfield, Michael J.",STS-86,259.0,1990,1997,male,1959,U.S.,3,779.0
+902,"Bloomfield, Michael J.",STS-97,260.0,2000,2000,male,1959,U.S.,3,779.0
+903,"Bloomfield, Michael J.",STS-110,260.0,2000,2002,male,1959,U.S.,3,779.0
+904,"Lindsey, Steven W.",STS-87,376.0,1990,1997,male,1960,U.S.,5,1508.0
+905,"Lindsey, Steven W.",STS-95,213.0,1990,1998,male,1960,U.S.,5,1508.0
+906,"Lindsey, Steven W.",STS-104,306.0,2000,2002,male,1960,U.S.,5,1508.0
+907,"Lindsey, Steven W.",STS-121,306.0,2000,2006,male,1960,U.S.,5,1508.0
+908,"Lindsey, Steven W.",STS-133,307.0,2010,2011,male,1960,U.S.,5,1508.0
+909,"Chawla, Kalpana",STS-87,376.0,1990,1997,female,1962,U.S.,2,758.0
+910,"Chawla, Kalpana",STS-107,382.0,2000,2003,female,1962,U.S.,2,758.0
+911,"Doi, Takao",STS-87,376.5,1990,1997,male,1954,Japan,2,763.6
+912,"Doi, Takao",STS-123,378.3,2000,2008,male,1954,Japan,2,763.6
+913,"Kadenyuk, Leonid",STS87,376.0,1990,1997,male,1951,U.S.S.R/Ukraine,1,376.57
+914,"Edwards, Joe F., Jr.",STS-89,211.0,1990,1998,male,1958,U.S.,1,211.0
+915,"Reilly, James F.",STS-89,211.0,1990,1998,male,1954,U.S.,3,853.0
+916,"Reilly, James F.",STS-104,306.0,2000,2001,male,1954,U.S.,3,853.0
+917,"Reilly, James F.",STS-117,336.0,2000,2007,male,1954,U.S.,3,853.0
+918,"Anderson, Michael P.",STS-89,211.0,1990,1998,male,1959,U.S.,2,593.0
+919,"Anderson, Michael P.",STS-107,382.0,2000,2003,male,1959,U.S.,2,593.0
+920,"Sharipov, Salizhan",24,211.0,1990,1998,male,1964,U.S.S.R/Russia,2,4838.83
+921,"Sharipov, Salizhan",10,4627.0,2000,2004,male,1964,U.S.S.R/Russia,2,4838.83
+922,"Eyharts, Léopold",Soyuz TM-27/26,496.5,1990,1998,male,1957,France,2,1653.52
+923,"Eyharts, Léopold",16,1157.0,2000,2008,male,1957,France,2,1653.52
+924,"Altman, Scott D.",STS-90,382.0,1990,1998,male,1959,U.S.,4,1224.0
+925,"Altman, Scott D.",STS-106,283.0,2000,2000,male,1959,U.S.,4,1224.0
+926,"Altman, Scott D.",STS-109,262.0,2000,2002,male,1959,U.S.,4,1224.0
+927,"Altman, Scott D.",STS-125,309.0,2000,2009,male,1959,U.S.,4,1224.0
+928,"Hire, Kathryn P.",STS-90,381.0,1990,1998,female,1959,U.S.,2,711.0
+929,"Hire, Kathryn P.",STS-130,330.0,2010,2010,female,1959,U.S.,2,711.0
+930,"Williams, Dafydd Rhys",STS-90,381.85,1990,1998,male,1954,Canada,2,676.85
+931,"Williams, Dafydd Rhys",STS-118,305.0,2000,2007,male,1954,Canada,2,676.85
+932,"Buckey, Jay Clark Jr.",STS-90,382.31,1990,1998,male,1956,U.S.,1,382.31
+933,"Pawelczyk, James Anthony",STS-90,382.31,1990,1998,male,1960,U.S.,1,382.31
+934,"Gorie, Dominic L.",STS-91,235.0,1990,1998,male,1957,U.S.,4,1176.1
+935,"Gorie, Dominic L.",STS-99,269.0,2000,2000,male,1957,U.S.,4,1176.1
+936,"Gorie, Dominic L.",STS-108,283.0,2000,2001,male,1957,U.S.,4,1176.1
+937,"Gorie, Dominic L.",STS-123,378.0,2000,2008,male,1957,U.S.,4,1176.1
+938,"Kavandi, Janet L.",STS-91,235.0,1990,1998,female,1957,U.S.,3,810.0
+939,"Kavandi, Janet L.",STS-99,269.0,2000,2000,female,1957,U.S.,3,810.0
+940,"Kavandi, Janet L.",STS-104,306.0,2000,2001,female,1957,U.S.,3,810.0
+941,"Padalka, Gennady",26,4768.0,1990,1998,male,1958,U.S.S.R/Russia,5,21083.52
+942,"Padalka, Gennady",9,4509.0,2000,2004,male,1958,U.S.S.R/Russia,5,21083.52
+943,"Padalka, Gennady",19,4768.0,2000,2009,male,1958,U.S.S.R/Russia,5,21083.52
+944,"Padalka, Gennady",31,2999.0,2010,2012,male,1958,U.S.S.R/Russia,5,21083.52
+945,"Padalka, Gennady",43,4037.0,2010,2015,male,1958,U.S.S.R/Russia,5,21083.52
+946,"Baturin, Yuri",26,283.0,1990,1998,male,1949,U.S.S.R/Russia,2,473.75
+947,"Duque, Pedro",STS-95,213.73,1990,1998,male,1963,Spain,2,450.76
+948,"Baturin, Yuri",Soyuz TM­32/31,190.0,2000,2001,male,1949,U.S.S.R/Russia,2,473.75
+949,"Duque, Pedro",Soyuz TMA-3/2,237.03,2000,2003,male,1963,Spain,2,450.76
+950,"Sturckow, Frederick W.",STS-88,283.0,1990,1998,male,1961,U.S.,4,1237.0
+951,"Sturckow, Frederick W.",STS-105,285.0,2000,2001,male,1961,U.S.,4,1237.0
+952,"Sturckow, Frederick W.",STS-117,336.0,2000,2007,male,1961,U.S.,4,1237.0
+953,"Sturckow, Frederick W.",STS-128,333.0,2000,2009,male,1961,U.S.,4,1237.0
+954,"Bella, Ivan",27,190.0,1990,1999,male,1964,Slovakia,1,190.0
+955,"Husband, Rick D.",STS-96,235.0,1990,1999,male,1957,U.S.,2,617.0
+956,"Husband, Rick D.",STS-107,382.0,2000,2003,male,1957,U.S.,2,617.0
+957,"Payette, Julie",STS-96,235.23,1990,1999,female,1963,Canada,2,611.98
+958,"Payette, Julie",STS-127,376.75,2000,2009,female,1963,Canada,2,611.98
+959,"Tokarev, Valeri",STS­96,235.0,1990,1999,male,1952,U.S.S.R/Russia,2,4791.1
+960,"Tokarev, Valeri",12,4555.0,2000,2005,male,1952,U.S.S.R/Russia,2,4791.1
+961,"Ashby, Jeffrey S.",STS-93,119.0,1990,1999,male,1954,U.S.,3,664.0
+962,"Ashby, Jeffrey S.",STS-100,285.5,2000,2001,male,1954,U.S.,3,664.0
+963,"Ashby, Jeffrey S.",STS-112,260.0,2000,2002,male,1954,U.S.,3,664.0
+964,"Kelly, Scott J.",STS-103,191.0,1990,1999,male,1964,U.S.,4,12490.0
+965,"Kelly, Scott J.",STS-118,305.0,2000,2007,male,1964,U.S.,4,12490.0
+966,"Kelly, Scott J.",25,3825.0,2010,2011,male,1964,U.S.,4,12490.0
+967,"Kelly, Scott J.",43,8163.0,2010,2015,male,1964,U.S.,4,12490.0
+968,"Thiele, Gerhard",STS-99,269.65,2000,2000,male,1953,Germany,1,269.65
+969,"Zalyotin, Sergei",28,1747.0,2000,2000,male,1962,U.S.S.R/Russia,2,2008.6
+970,"Zalyotin, Sergei",Soyuz TMA­1/TM­34,260.0,2000,2002,male,1962,U.S.S.R/Russia,2,2008.6
+971,"Williams, Jeffrey N.",STS-101,240.0,2000,2000,male,1958,U.S.,4,12752.0
+972,"Williams, Jeffrey N.",13,4320.0,2000,2006,male,1958,U.S.,4,12752.0
+973,"Williams, Jeffrey N.",21,4060.0,2010,2010,male,1958,U.S.,4,12752.0
+974,"Williams, Jeffrey N.",47,4132.0,2010,2016,male,1958,U.S.,4,12752.0
+975,"Mastracchio, Richard A.",STS-106,283.0,2000,2000,male,1960,U.S.,4,5460.0
+976,"Mastracchio, Richard A.",STS-118,306.0,2000,2007,male,1960,U.S.,4,5460.0
+977,"Mastracchio, Richard A.",STS-131,362.0,2010,2010,male,1960,U.S.,4,5460.0
+978,"Mastracchio, Richard A.",38,4509.0,2010,2014,male,1960,U.S.,4,5460.0
+979,"Burbank, Daniel C.",STS-106,283.0,2000,2000,male,1961,U.S.,3,4534.0
+980,"Burbank, Daniel C.",STS-115,283.0,2000,2006,male,1961,U.S.,3,4534.0
+981,"Burbank, Daniel C.",29,3968.0,2010,2011,male,1961,U.S.,3,4534.0
+982,"Morukov, Boris",STS­106,283.0,2000,2000,male,1950,U.S.S.R/Russia,1,283.2
+983,"Melroy, Pamela A.",STS-92,309.0,2000,2000,female,1961,U.S.,3,930.0
+984,"Melroy, Pamela A.",STS-112,259.0,2000,2002,female,1961,U.S.,3,930.0
+985,"Melroy, Pamela A.",STS-120,362.0,2000,2007,female,1961,U.S.,3,930.0
+986,"Polansky, Mark L.",STS-98,309.0,2000,2001,male,1956,U.S.,3,993.0
+987,"Polansky, Mark L.",STS-116,308.0,2000,2006,male,1956,U.S.,3,993.0
+988,"Polansky, Mark L.",STS-127,377.0,2000,2009,male,1956,U.S.,3,993.0
+989,"Kelly, James M.",STS-102,307.0,2000,2001,male,1959,U.S.,2,640.0
+990,"Kelly, James M.",STS-114,333.0,2000,2005,male,1959,U.S.,2,640.0
+991,"Richards, Paul W.",STS-102,307.0,2000,2001,male,1964,U.S.,1,307.0
+992,"Phillips, John L.",STS-100,285.0,2000,2001,male,1951,U.S.,3,4872.0
+993,"Phillips, John L.",11,4296.0,2000,2005,male,1951,U.S.,3,4872.0
+994,"Phillips, John L.",STS-119,307.5,2000,2009,male,1951,U.S.,3,4872.0
+995,"Lonchakov, Yuri",STS­100,285.0,2000,2001,male,1965,U.S.S.R/Russia,3,4818.65
+996,"Lonchakov, Yuri",Soyuz TMA­1/TM­34,260.0,2000,2002,male,1965,U.S.S.R/Russia,3,4818.65
+997,"Lonchakov, Yuri",18,4272.0,2000,2008,male,1965,U.S.S.R/Russia,3,4818.65
+998,"Tito, Dennis Anthony",ЭП-1,190.13,2000,2001,male,1940,U.S.,1,190.13
+999,"Hobaugh, Charles O.",STS-104,306.0,2000,2001,male,1961,U.S.,3,871.78
+1000,"Hobaugh, Charles O.",STS-118,305.0,2000,2007,male,1961,U.S.,3,871.78
+1001,"Hobaugh, Charles O.",STS-129,259.0,2000,2009,male,1961,U.S.,3,871.78
+1002,"Forrester, Patrick G.",STS-105,285.0,2000,2001,male,1957,U.S.,3,950.0
+1003,"Forrester, Patrick G.",STS-117,332.0,2000,2007,male,1957,U.S.,3,950.0
+1004,"Forrester, Patrick G.",STS-128,333.0,2000,2009,male,1957,U.S.,3,950.0
+1005,"Tyurin, Mikhail",3,3092.0,2000,2001,male,1960,U.S.S.R/Russia,3,12770.85
+1006,"Tyurin, Mikhail",14,5168.0,2000,2006,male,1960,U.S.S.R/Russia,3,12770.85
+1007,"Tyurin, Mikhail",38,4509.0,2010,2013,male,1960,U.S.S.R/Russia,3,12770.85
+1008,"Kozeyev, Konstantin",Soyuz TM­33/32,235.0,2000,2001,male,1967,U.S.S.R/Russia,1,235.98
+1009,"Kelly, Mark E.",STS-108,283.0,2000,2001,male,1964,U.S.,4,1297.0
+1010,"Kelly, Mark E.",STS-121,307.0,2000,2006,male,1964,U.S.,4,1297.0
+1011,"Kelly, Mark E.",STS-124,330.0,2000,2008,male,1964,U.S.,4,1297.0
+1012,"Kelly, Mark E.",STS-134,377.0,2010,2011,male,1964,U.S.,4,1297.0
+1013,"Tani, Daniel M.",STS-108,283.0,2000,2001,male,1961,U.S.,2,3163.0
+1014,"Tani, Daniel M.",16,2880.0,2000,2007,male,1961,U.S.,2,3163.0
+1015,"Carey, Duane G.",STS-109,262.0,2000,2002,male,1957,U.S.,1,262.0
+1016,"Massimino, Michael J.",STS-109,262.0,2000,2002,male,1962,U.S.,2,517.8
+1017,"Massimino, Michael J.",STS-125,309.0,2000,2009,male,1962,U.S.,2,517.8
+1018,"Frick, Stephen N.",STS-110,260.0,2000,2002,male,1964,U.S.,2,565.0
+1019,"Frick, Stephen N.",STS-122,306.0,2000,2008,male,1964,U.S.,2,565.0
+1020,"Walheim, Rex J.",STS-110,259.0,2000,2002,male,1962,U.S.,3,872.51
+1021,"Walheim, Rex J.",STS-122,306.0,2000,2008,male,1962,U.S.,3,872.51
+1022,"Walheim, Rex J.",STS-135,306.5,2010,2011,male,1962,U.S.,3,872.51
+1023,"Morin, Lee M.",STS-110,259.0,2000,2002,male,1952,U.S.,1,259.0
+1024,"Vittori, Roverto",Soyuz TMA-34/TM-33,237.0,2000,2002,male,1964,Italy,3,851.65
+1025,"Vittori, Roverto",Soyuz TMA-6/TMA-5,237.0,2000,2005,male,1964,Italy,3,851.65
+1026,"Vittori, Roverto",STS-134,377.65,2010,2011,male,1964,Italy,3,851.65
+1027,"Shuttleworth, M. Richard",Soyuz TM-34 / Soyuz TM-33,237.0,2000,2002,male,1973,Republic of South Africa,1,237.0
+1028,"Lockhart, Paul S.",STS-111,332.0,2000,2002,male,1956,U.S.,2,663.38
+1029,"Lockhart, Paul S.",STS-113,330.0,2000,2002,male,1956,U.S.,2,663.38
+1030,"Perrin, Philippe",STS-111,332.58,2000,2002,male,1963,France,1,332.58
+1031,"Whitson, Peggy A.",5,4438.0,2000,2002,female,1960,U.S.,3,15982.0
+1032,"Whitson, Peggy A.",16,4603.0,2000,2008,female,1960,U.S.,3,15982.0
+1033,"Whitson, Peggy A.",50,6941.0,2010,2016,female,1960,U.S.,3,15982.0
+1034,"Treshchov, Sergei",5,4438.0,2000,2002,male,1958,U.S.S.R/Russia,1,4438.25
+1035,"Magnus, Sandra H.",STS-112,260.0,2000,2002,female,1964,U.S.,3,3776.0
+1036,"Magnus, Sandra H.",18,3210.0,2000,2008,female,1964,U.S.,3,3776.0
+1037,"Magnus, Sandra H.",STS-135,306.0,2010,2011,female,1964,U.S.,3,3776.0
+1038,"Sellers, Piers J.",STS-112,259.0,2000,2002,male,1955,U.K./U.S.,3,839.0
+1039,"Sellers, Piers J.",STS-121,306.0,2000,2006,male,1955,U.K./U.S.,3,839.0
+1040,"Sellers, Piers J.",STS-132,282.5,2010,2010,male,1955,U.K./U.S.,3,839.0
+1041,"Yurchikhin, Fyodor",STS­112,259.0,2000,2002,male,1959,U.S.S.R/Russia,5,16147.0
+1042,"Yurchikhin, Fyodor",15,4721.0,2000,2007,male,1959,U.S.S.R/Russia,5,16147.0
+1043,"Yurchikhin, Fyodor",24,3919.0,2010,2010,male,1959,U.S.S.R/Russia,5,16147.0
+1044,"Yurchikhin, Fyodor",36,3990.0,2010,2013,male,1959,U.S.S.R/Russia,5,16147.0
+1045,"Yurchikhin, Fyodor",51,3258.0,2010,2017,male,1959,U.S.S.R/Russia,5,16147.0
+1046,"De Winne, Frank",Soyuz TMA-1/TM-34,261.0,2000,2002,male,1961,Belgium,2,4769.58
+1047,"De Winne, Frank",20,4508.6,2000,2009,male,1961,Belgium,2,4769.58
+1048,"Herrington, John B.",STS-113,330.0,2000,2002,male,1958,U.S.,1,330.0
+1049,"Pettit, Donald R.",6,3865.0,2000,2002,male,1955,U.S.,3,8872.5
+1050,"Pettit, Donald R.",STS-126,380.5,2000,2008,male,1955,U.S.,3,8872.5
+1051,"Pettit, Donald R.",30,4627.0,2010,2011,male,1955,U.S.,3,8872.5
+1052,"McCool, William C.",STS-107,382.0,2000,2003,male,1961,U.S.,1,382.0
+1053,"Brown, David M.",STS-107,382.0,2000,2003,male,1956,U.S.,1,382.0
+1054,"Clark, Laurel B.",STS-107,382.0,2000,2003,female,1961,U.S.,1,382.0
+1055,"Ramon, Ilan",STS-107,382.33,2000,2003,male,1954,Israel,1,382.33
+1056,"Yang, Liwei",Shenzhou 5,21.0,2000,2005,male,1965,China,1,21.0
+1057,"Fincke, E. Michael",9,4501.0,2000,2004,male,1967,U.S.,3,9159.0
+1058,"Fincke, E. Michael",18,4280.0,2000,2009,male,1967,U.S.,3,9159.0
+1059,"Fincke, E. Michael",STS-134,378.0,2010,2011,male,1967,U.S.,3,9159.0
+1060,"Kuipers, Andre",Soyuz TMA-4/TMA-3,261.0,2000,2004,male,1958,Netherland,2,4888.0
+1061,"Kuipers, Andre",30,4627.0,2010,2012,male,1958,Netherland,2,4888.0
+1062,"Shargin, Yuri",Soyuz TMA­5,237.0,2000,2004,male,1960,U.S.S.R/Russia,1,237.5
+1063,"Noguchi, Soichi",STS-114,333.55,2000,2005,male,1965,Japan,2,4251.1
+1064,"Noguchi, Soichi",22,3917.55,2000,2009,male,1965,Japan,2,4251.1
+1065,"Camarda, Charles J.",STS-114,333.0,2000,2005,male,1952,U.S.,1,333.0
+1066,"Olsen, Gregory Hammond",Soyuz TMA-7,237.29,2000,2005,male,1945,U.S.,1,237.29
+1067,"Fei, Junlong",Shenzhou 6,115.0,2000,2005,male,1966,China,1,115.0
+1068,Nie Haisheng,Shenzhou 6,116.0,2000,2005,male,1964,China,2,466.0
+1069,Nie Haisheng,Shenzhou 10,350.0,2000,2008,male,1964,China,2,466.0
+1070,"Pontes, Marcos Cesar",Soyuz TMA-8,237.28,2000,2006,male,1963,Brazil,1,237.28
+1071,"Fossum, Michael E.",STS-121,307.0,2000,2006,male,1957,U.S.,3,4651.0
+1072,"Fossum, Michael E.",STS-124,330.0,2000,2008,male,1957,U.S.,3,4651.0
+1073,"Fossum, Michael E.",28,4014.0,2010,2011,male,1957,U.S.,3,4651.0
+1074,"Nowak, Lisa M.",STS-121,306.0,2000,2006,female,1963,U.S.,1,306.0
+1075,"Wilson, Stephanie D.",STS-121,306.0,2000,2006,female,1966,U.S.,3,1031.77
+1076,"Wilson, Stephanie D.",STS-120,362.0,2000,2007,female,1966,U.S.,3,1031.77
+1077,"Wilson, Stephanie D.",STS-131,362.0,2010,2010,female,1966,U.S.,3,1031.77
+1078,"Ferguson, Christopher J.",STS-115,283.0,2000,2006,male,1961,U.S.,3,672.0
+1079,"Ferguson, Christopher J.",STS-126,380.5,2000,2008,male,1961,U.S.,3,672.0
+1080,"Ferguson, Christopher J.",STS-135,306.5,2010,2011,male,1961,U.S.,3,672.0
+1081,"Stefanyshyn-Piper, Heidemarie M.",STS-115,288.0,2000,2002,female,1963,U.S.,2,648.0
+1082,"Stefanyshyn-Piper, Heidemarie M.",STS-126,360.0,2000,2008,female,1963,U.S.,2,648.0
+1083,"Ansari, Anousheh",Soyuz TMA-9,261.525,2000,2006,female,1966,U.S.,1,261.525
+1084,"Oefelein, William A.",STS-116,308.0,2000,2006,male,1965,U.S.,1,308.0
+1085,"Patrick, Nicholas J. M.",STS-116,308.0,2000,2006,male,1964,U.K./U.S.,2,638.0
+1086,"Patrick, Nicholas J. M.",STS-130,330.0,2010,2010,male,1964,U.K./U.S.,2,638.0
+1087,Christer Fuglesang,STS-116,308.73,2000,2006,male,1957,Sweden,2,641.63
+1088,Christer Fuglesang,STS-128,332.9,2000,2009,male,1957,Sweden,2,641.63
+1089,"Higginbotham, Joan E.",STS-116,308.0,2000,2006,female,1964,U.S.,1,308.0
+1090,"Williams, Sunita L.",14,4674.0,2000,2006,female,1965,U.S.,1,7722.0
+1091,"Williams, Sunita L.",32,3048.0,2010,2012,female,1965,U.S.,2,7722.0
+1092,"Kotov, Oleg",15,4721.0,2000,2007,male,1965,U.S.S.R/Russia,3,12629.03
+1093,"Kotov, Oleg",22,3917.0,2000,2009,male,1965,U.S.S.R/Russia,3,12629.03
+1094,"Kotov, Oleg",37,3990.0,2010,2013,male,1965,U.S.S.R/Russia,3,12629.03
+1095,"Simonyi, Charles (Karoly)",Soyuz TMA-10,331.4,2000,2007,male,1948,U.S.,2,638.77
+1096,"Simonyi, Charles (Karoly)",Soyuz TMA-14,307.85,2000,2009,male,1948,U.S.,2,638.77
+1097,"Archambault, Lee J.",STS-117,332.0,2000,2007,male,1960,U.S.,2,639.5
+1098,"Archambault, Lee J.",STS-119,307.5,2000,2009,male,1960,U.S.,2,639.5
+1099,"Swanson, Steven R.",STS-117,332.22,2000,2007,male,1960,U.S.,3,4646.85
+1100,"Swanson, Steven R.",STS-119,307.5,2000,2009,male,1960,U.S.,3,4646.85
+1101,"Swanson, Steven R.",39,4007.13,2010,2014,male,1960,U.S.,3,4646.85
+1102,"Olivas, John D.",STS-117,332.0,2000,2007,male,1965,U.S.,2,668.0
+1103,"Olivas, John D.",STS-128,333.0,2000,2009,male,1965,U.S.,2,668.0
+1104,"Anderson, Clayton C.",15,3642.0,2000,2007,male,1959,U.S.,2,4046.0
+1105,"Anderson, Clayton C.",STS-131,363.0,2010,2010,male,1959,U.S.,2,4046.0
+1106,"Caldwell, Tracy E.",STS-118,306.0,2000,2007,female,1969,U.S.,2,4526.0
+1107,"Caldwell, Tracy E.",23,4220.0,2010,2010,female,1969,U.S.,2,4526.0
+1108,"Drew, Alvin Benjamin",STS-118,306.0,2000,2007,male,1962,U.S.,2,613.0
+1109,"Drew, Alvin Benjamin",STS-133,307.0,2010,2011,male,1962,U.S.,2,613.0
+1110,"Morgan, Barbara R.",STS-118,305.0,2000,2007,female,1951,U.S.,1,305.0
+1111,"Shukor, Sheikh Muszaphar",Soyuz TMA-11/10,261.23,2000,2007,male,1972,Malysia,1,261.23
+1112,"Zamka, George D.",STS-120,362.0,2000,2007,male,1962,U.S.,2,692.53
+1113,"Zamka, George D.",STS-130,306.1,2010,2010,male,1962,U.S.,2,692.53
+1114,"Wheelock, Douglas H.",STS-120,360.0,2000,2007,male,1960,U.S.,2,4281.57
+1115,"Wheelock, Douglas H.",24,3912.0,2010,2010,male,1960,U.S.,2,4281.57
+1116,"Nespoli, Paolo A.",STS-120,362.4,2000,2007,male,1957,Italy,3,7514.61
+1117,"Nespoli, Paolo A.",26,3823.28,2010,2010,male,1957,Italy,3,7514.61
+1118,"Nespoli, Paolo A.",52,3328.93,2010,2017,male,1957,Italy,3,7514.61
+1119,"Poindexter, Alan G.",STS-122,306.0,2000,2008,male,1961,U.S.,2,669.0
+1120,"Poindexter, Alan G.",STS-131,363.0,2010,2010,male,1961,U.S.,2,669.0
+1121,"Melvin, Leland D.",STS-122,306.0,2000,2008,male,1964,U.S.,2,565.0
+1122,"Melvin, Leland D.",STS-129,259.0,2000,2009,male,1964,U.S.,2,565.0
+1123,"Love, Stanley G.",STS-122,306.0,2000,2008,male,1965,U.S.,1,306.0
+1124,"Johnson, Gregory H.",STS-123,378.0,2000,2008,male,1962,U.S.,2,755.83
+1125,"Johnson, Gregory H.",STS-134,377.0,2010,2011,male,1962,U.S.,2,755.83
+1126,"Behnken, Robert L.",STS-123,378.0,2000,2008,male,1970,U.S.,2,708.0
+1127,"Behnken, Robert L.",STS-130,330.0,2010,2010,male,1970,U.S.,2,708.0
+1128,"Foreman, Michael J.",STS-123,378.0,2000,2008,male,1957,U.S.,2,637.0
+1129,"Foreman, Michael J.",STS-129,259.0,2000,2009,male,1957,U.S.,2,637.0
+1130,"Reisman, Garrett E.",16,2289.0,2000,2008,male,1968,U.S.,2,2473.0
+1131,"Reisman, Garrett E.",STS-132,282.0,2010,2010,male,1968,U.S.,2,2473.0
+1132,"Volkov, Sergei",17,4768.0,2000,2008,male,1973,U.S.S.R/Russia,3,12786.32
+1133,"Volkov, Sergei",28,4014.0,2010,2011,male,1973,U.S.S.R/Russia,3,12786.32
+1134,"Volkov, Sergei",45,4003.0,2010,2015,male,1973,U.S.S.R/Russia,3,12786.32
+1135,"Kononenko, Oleg D.",17,3168.0,2000,2008,male,1964,U.S.S.R/Russia,4,16081.0
+1136,"Kononenko, Oleg D.",30,4626.0,2010,2011,male,1964,U.S.S.R/Russia,4,16081.0
+1137,"Kononenko, Oleg D.",44,3400.0,2010,2015,male,1964,U.S.S.R/Russia,4,16081.0
+1138,"Kononenko, Oleg D.",57,4887.0,2010,2018,male,1964,U.S.S.R/Russia,4,16081.0
+1139,"Yi, Soyeon (Lee So-hyun)",Soyuz TMA-12 / Soyuz TMA-11,261.0,2000,2008,female,1978,Korea,1,261.0
+1140,"Ham, Kenneth T.",STS-124,330.0,2000,2008,male,1964,U.S.,2,612.0
+1141,"Ham, Kenneth T.",STS-132,282.0,2010,2010,male,1964,U.S.,2,612.0
+1142,"Nyberg, Karen L.",STS-124,330.0,2000,2008,female,1969,U.S.,2,4320.0
+1143,"Nyberg, Karen L.",36,3990.0,2010,2013,female,1969,U.S.,2,4320.0
+1144,"Garan, Ronald J., Jr.",STS-124,330.0,2000,2008,male,1961,U.S.,2,4272.0
+1145,"Garan, Ronald J., Jr.",27,3942.0,2000,2008,male,1961,U.S.,2,4272.0
+1146,"Hoshide, Akihiko",STS-124,306.25,2000,2008,male,1968,Japan,2,3377.5
+1147,"Hoshide, Akihiko",32,3047.25,2010,2012,male,1968,Japan,2,3377.5
+1148,"Chamitoff, Gregory",17,4392.5,2000,2008,male,1962,U.S.,2,4770.0
+1149,"Chamitoff, Gregory",STS-134,377.5,2010,2011,male,1962,U.S.,2,4770.0
+1150,"Zhai, Zhigang",Shenzhou 7,68.0,2000,2008,male,1966,China,1,68.0
+1151,"Liu, Boming",Shenzhou 7,68.0,2000,2008,male,1966,China,1,68.0
+1152,"Jing, Haipeng",Shenzhou 7,68.0,2000,2008,male,1966,China,3,1146.0
+1153,"Jing, Haipeng",Shenzhou 9,303.5,2010,2012,male,1966,China,3,1146.0
+1154,"Jing, Haipeng",Shenzhou 11,774.5,2010,2016,male,1966,China,3,1146.0
+1155,"Garriott, Richard Allen",Soyuz TMA-13,284.89,2000,2008,male,1961,U.K./U.S.,1,284.89
+1156,"Boe, Eric A.",STS-126,380.0,2000,2008,male,1964,U.S.,2,687.0
+1157,"Boe, Eric A.",STS-133,307.0,2010,2011,male,1964,U.S.,2,687.0
+1158,"Bowen, Stephen G.",STS-126,380.0,2000,2008,male,1964,U.S.,3,970.0
+1159,"Bowen, Stephen G.",STS-132,283.0,2010,2010,male,1964,U.S.,3,970.0
+1160,"Bowen, Stephen G.",STS-133,307.0,2010,2011,male,1964,U.S.,3,970.0
+1161,"Kimbrough, Robert S.",STS-126,380.0,2000,2008,male,1967,U.S.,2,10763.25
+1162,"Kimbrough, Robert S.",49,10383.25,2010,2016,male,1967,U.S.,2,10763.25
+1163,"Antonelli, Dominic A.",STS-119,287.5,2000,2009,male,1967,U.S.,2,579.0
+1164,"Antonelli, Dominic A.",STS-132,281.5,2010,2010,male,1967,U.S.,2,579.0
+1165,"Acaba, Joseph M.",STS-119,307.0,2000,2009,male,1967,U.S.,3,7272.23
+1166,"Acaba, Joseph M.",31,2928.0,2010,2012,male,1967,U.S.,3,7272.23
+1167,"Acaba, Joseph M.",53,4037.23,2010,2017,male,1967,U.S.,3,7272.23
+1168,"Arnold, Richard R., II",STS-119,307.0,2000,2009,male,1963,U.S.,2,307.0
+1169,"Arnold, Richard R., II",55,4722.0,2010,2018,male,1963,U.S.,2,307.0
+1170,"Barratt, Michael R.",19,4778.0,2000,2009,male,1959,U.S.,2,5085.0
+1171,"Barratt, Michael R.",STS-133,307.0,2010,2011,male,1959,U.S.,2,5085.0
+1172,"Johnson, Gregory C.",STS-125,309.63,2000,2009,male,1954,U.S.,1,309.63
+1173,"Good, Michael T.",STS-125,309.0,2000,2009,male,1962,U.S.,2,591.15
+1174,"Good, Michael T.",STS-132,282.15,2010,2010,male,1962,U.S.,2,591.15
+1175,"McArthur, K. Megan",STS-125,309.0,2000,2009,female,1971,U.S.,1,309.0
+1176,"Feustel, Andrew J.",STS-125,309.0,2000,2009,male,1965,U.S.,3,687.0
+1177,"Feustel, Andrew J.",STS-134,378.0,2010,2011,male,1965,U.S.,3,687.0
+1178,"Feustel, Andrew J.",55,4722.0,2010,2018,male,1965,U.S.,3,687.0
+1179,"Romanenko, Roman",20,4508.0,2000,2009,male,1971,U.S.S.R/Russia,2,8003.02
+1180,"Romanenko, Roman",34,3494.0,2010,2012,male,1971,U.S.S.R/Russia,2,8003.02
+1181,"Hurley, Douglas G.",STS-127,377.0,2000,2009,male,1966,U.S.,2,683.0
+1182,"Hurley, Douglas G.",STS-135,306.0,2010,2011,male,1966,U.S.,2,683.0
+1183,"Cassidy, Christopher J.",STS-127,377.0,2000,2009,male,1970,U.S.,2,4744.0
+1184,"Cassidy, Christopher J.",35,3990.0,2010,2013,male,1970,U.S.,2,4744.0
+1185,"Marshburn, Thomas H.",STS-127,376.0,2000,2009,male,1960,U.S.,2,3870.0
+1186,"Marshburn, Thomas H.",34,3494.0,2010,2013,male,1960,U.S.,2,3870.0
+1187,"Kopra, Timothy L.",20,1317.0,2000,2009,male,1963,U.S.,2,3315.0
+1188,"Kopra, Timothy L.",46,1920.0,2010,2015,male,1963,U.S.,2,3315.0
+1189,"Ford, Kevin A.",STS-128,333.0,2000,2009,male,1960,U.S.,2,3781.0
+1190,"Ford, Kevin A.",33,3448.0,2010,2012,male,1960,U.S.,2,3781.0
+1191,"Hernandez, Jose M.",STS-128,332.0,2000,2009,male,1962,U.S.,1,332.0
+1192,"Stott, Nicole P.",20,1440.0,2000,2009,female,1962,U.S.,2,1747.0
+1193,"Stott, Nicole P.",STS-133,307.0,2010,2011,female,1962,U.S.,2,1747.0
+1194,"Surayev, Maksim",40,3968.0,2010,2014,male,1972,U.S.S.R/Russia,2,8028.18
+1195,"Surayev, Maksim",21,4060.0,2000,2009,male,1972,U.S.S.R/Russia,2,8028.18
+1196,Guy Laliberte,Soyuz TMA-16/14,261.28,2000,2009,male,1959,Canada,1,261.28
+1197,"Wilmore, Barry E.",STS-129,259.0,2000,2009,male,1962,U.S.,2,4272.0
+1198,"Wilmore, Barry E.",41,4013.0,2010,2014,male,1962,U.S.,2,4272.0
+1199,"Bresnik, Randolph J.",STS-129,259.0,2000,2009,male,1967,U.S.,2,3587.93
+1200,"Bresnik, Randolph J.",52,3328.93,2010,2017,male,1967,U.S.,2,3587.93
+1201,"Satcher, Robert L.",STS-129,259.0,2000,2009,male,1965,U.S.,1,259.0
+1202,"Creamer, Timothy J.",22,3912.0,2000,2009,male,1959,U.S.,1,3912.0
+1203,"Virts, Terry W., Jr.",STS-130,330.1,2010,2010,male,1967,U.S.,2,5113.62
+1204,"Virts, Terry W., Jr.",42,4783.5,2010,2014,male,1967,U.S.,2,5113.62
+1205,"Skvortsov, Aleksandr Jr.",23,4225.0,2010,2010,male,1966,U.S.S.R/Russia,3,12588.98
+1206,"Skvortsov, Aleksandr Jr.",39,4061.0,2010,2014,male,1966,U.S.S.R/Russia,3,12588.98
+1207,"Skvortsov, Aleksandr Jr.",60,4302.98,2010,2019,male,1966,U.S.S.R/Russia,3,12588.98
+1208,"Korniyenko, Mikhail",23,4225.0,2010,2010,male,1960,U.S.S.R/Russia,2,12005.43
+1209,"Korniyenko, Mikhail",43,7798.0,2010,2015,male,1960,U.S.S.R/Russia,2,12005.43
+1210,"Dutton, James P.",STS-131,362.0,2010,2010,male,1968,U.S.,1,362.0
+1211,"Metcalf-Lindenburger, Dorothy M.",STS-131,362.0,2010,2010,female,1975,U.S.,1,362.0
+1212,"Yamazaki, Naoko",STS-131,362.8,2010,2010,female,1970,Japan,1,362.8
+1213,"Walker, Shannon",24,3919.18,2010,2010,female,1965,U.S.,1,3919.18
+1214,"Skripochka, Oleg",25,3824.0,2010,2010,male,1969,U.S.S.R/Russia,3,10653.3
+1215,"Skripochka, Oleg",47,4131.77,2010,2016,male,1969,U.S.S.R/Russia,3,10653.3
+1216,"Skripochka, Oleg",61,2697.53,2010,2019,male,1969,U.S.S.R/Russia,3,10653.3
+1217,"Kondratyev, Dmitri",26,3823.0,2010,2010,male,1969,U.S.S.R/Russia,1,3823.28
+1218,"Samokutyayev, Aleksandr",27,3941.0,2010,2011,male,1970,U.S.S.R/Russia,2,7955.38
+1219,"Samokutyayev, Aleksandr",41,4013.0,2010,2014,male,1970,U.S.S.R/Russia,2,7955.38
+1220,"Borisenko, Andrei",27,3941.0,2010,2011,male,1964,U.S.S.R/Russia,2,14324.25
+1221,"Borisenko, Andrei",49,10383.25,2010,2016,male,1964,U.S.S.R/Russia,2,14324.25
+1222,"Furukawa, Satoshi",28,4014.0,2010,2011,male,1964,Japan,1,4014.0
+1223,"Shkaplerov, Anton",29,3967.0,2010,2011,male,1972,U.S.S.R/Russia,3,12796.0
+1224,"Shkaplerov, Anton",42,4792.0,2010,2014,male,1972,U.S.S.R/Russia,3,12796.0
+1225,"Shkaplerov, Anton",54,4037.0,2010,2017,male,1972,U.S.S.R/Russia,3,12796.0
+1226,"Ivanishin, Anatoli",29,3967.0,2010,2011,male,1969,U.S.S.R/Russia,2,6729.0
+1227,"Ivanishin, Anatoli",48,2762.0,2010,2016,male,1969,U.S.S.R/Russia,2,6729.0
+1228,"Revin, Sergei",31,2999.0,2010,2012,male,1966,U.S.S.R/Russia,1,2999.87
+1229,"Liu, Wang",Shenzhou 9,303.5,2010,2012,male,1969,China,1,312.0
+1230,"Liu, Yang",Shenzhou 9,303.5,2010,2012,female,1978,China,1,312.0
+1231,"Novitski, Oleg",33,3448.0,2010,2012,male,1971,U.S.S.R/Russia,2,8169.83
+1232,"Novitski, Oleg",50,4721.83,2010,2016,male,1971,U.S.S.R/Russia,2,8169.83
+1233,"Tarelkin, Yevgeni",33,3448.0,2010,2012,male,1974,U.S.S.R/Russia,1,3448.25
+1234,"Misurkin, Aleksandr",35,3990.25,2010,2013,male,1977,U.S.S.R/Russia,2,8027.5
+1235,"Misurkin, Aleksandr",53,4037.25,2010,2017,male,1977,U.S.S.R/Russia,2,8027.5
+1236,"Parmitano, Luca",36,3990.28,2010,2013,male,1976,Italy,2,8293.31
+1237,"Parmitano, Luca",,4303.03,2010,2019,male,1976,Italy,2,8293.31
+1238,"Zhang, Xiaoguang",Shenzhou 10,350.0,2010,2013,male,1968,China,1,350.0
+1239,"Wang, Yapi",Shenzhou 10,350.0,2010,2013,male,1980,China,1,350.0
+1240,"Ryazanski, Sergei",37,3990.0,2010,2013,male,1974,U.S.S.R/Russia,2,7318.93
+1241,"Ryazanski, Sergei",52,3328.93,2010,2017,male,1974,U.S.S.R/Russia,2,7318.93
+1242,"Hopkins, Michael Scott",37,3990.42,2010,2013,male,1968,U.S.,1,3990.42
+1243,"Artemyev, Oleg",39,4062.0,2010,2014,male,1970,U.S.S.R/Russia,2,8784.0
+1244,"Artemyev, Oleg",55,4722.0,2010,2018,male,1970,U.S.S.R/Russia,2,8784.0
+1245,"Wiseman, Gregory Reid",40,3968.1,2010,2014,male,1975,U.S.,1,3968.1
+1246,"Gerst, Alexander",40,3968.02,2010,2014,male,1976,Germany,2,8689.84
+1247,"Gerst, Alexander",56,4721.82,2010,2018,male,1976,Germany,2,8689.84
+1248,"Serova, Yelena",41,4013.0,2010,2014,female,1976,U.S.S.R/Russia,1,4013.7
+1249,"Cristofretti, Samantha",42,4783.5,2010,2014,female,1977,Italy,1,4783.5
+1250,"Yui, Kimiya",44,3400.0,2010,2015,male,1970,Japan,1,3400.0
+1251,"Lindgren, Kjell Norwood",44,3400.15,2010,2015,male,1973,U.S.,1,3400.15
+1252,"Mogensen, Andreas",Soyuz TMA-18M/16M,236.23,2010,2015,male,1976,Denmark,1,236.23
+1253,Aidyn (Aydyn) Akanovich Aimbetov,Soyuz TMA-18M/16M,236.23,2010,2015,male,1972,Kazakhstan,1,236.23
+1254,"Peake, Timothy Nigel",46,4462.0,2010,2015,male,1972,U.K.,1,4462.0
+1255,"Ovchinin, Aleksey",47,4132.0,2010,2016,male,1971,U.S.S.R/Russia,3,8995.75
+1256,"Ovchinin, Aleksey",57,0.0,2010,2019,male,1971,U.S.S.R/Russia,3,8995.75
+1257,"Ovchinin, Aleksey",59,4863.75,2010,2019,male,1971,U.S.S.R/Russia,3,8995.75
+1258,"Onishi, Takuya",48,6902.35,2010,2016,male,1975,Japan,1,6902.35
+1259,"Rubins, Kathleen",48,6902.35,2010,2016,female,1978,U.S.,1,6902.35
+1260,"Chen, Dong",Shenzhou 11,774.5,2010,2016,male,1978,China,1,774.5
+1261,"Ryzhikov, Sergey",49,10383.25,2010,2016,male,1974,U.S.S.R/Russia,1,10383.25
+1262,"Pesquet, Thomas",50,4721.83,2010,2016,male,1978,France,1,15105.08
+1263,"Fischer, Jack",51,3258.13,2010,2017,male,1974,U.S.,1,3258.13
+1264,"Vande Hei, Mark",53,4037.23,2010,2017,male,1966,U.S.,1,4037.23
+1265,"Tingle, Scott",54,4037.0,2010,2017,male,1965,U.S.,1,4037.0
+1266,"Kanai, Norishige",54,4037.0,2010,2017,male,1976,Japan,1,4037.0
+1267,"Prokopyev, Sergei",56,4722.0,2010,2018,male,1975,U.S.S.R/Russia,1,4722.0
+1268,"Auñón-Chancellor, Serena",56,4722.0,2010,2018,female,1976,U.S.,1,4722.0
+1269,"Hague, Tyler",57,0.0,2010,2018,male,1975,U.S.,2,4864.0
+1270,"Hague, Tyler",59,4864.0,2010,2019,male,1975,U.S.,2,4864.0
+1271,"Saint-Jaques, David",57,4887.0,2010,2018,male,1970,Canada,1,4887.0
+1272,"McClain, Anne Charlotte",57,4887.0,2010,2018,female,1979,U.S.,1,4887.0
+1273,"Koch, Christina",59,7372.3,2010,2019,female,1979,U.S.,1,7372.3
+1274,"Morgan, Andrew",60,4303.08,2010,2019,male,1976,U.S.,1,4303.08
+1275,"Meir, Jessica",60,2697.6,2010,2019,female,1977,U.S.,1,2697.6
+1276,"Al Mansoori, Hazzaa",EP-19,189.0,2010,2019,male,1983,UAE,1,189.0

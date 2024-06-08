@@ -1,0 +1,565 @@
+,index,name,sex,year_of_selection,total_astronauts
+64,2,"Glenn, John H., Jr.",male,1959,1
+70,163,"Slayton, Donald K.",male,1959,7
+69,116,"Shepard, Alan B., Jr.",male,1959,6
+65,4,"Carpenter, M. Scott",male,1959,2
+67,12,"Cooper, L. Gordon, Jr.",male,1959,4
+66,9,"Schirra, Walter M., Jr.",male,1959,3
+68,25,"Grissom, Virgil I.",male,1959,5
+82,107,"Gorbatko, Viktor",male,1960,19
+81,99,"Shonin, Georgi",male,1960,18
+79,92,"Volynov, Boris",male,1960,16
+77,22,"Belyayev, Pavel",male,1960,14
+80,97,"Khrunov, Yevgeny",male,1960,17
+75,14,"Bykovsky, Valery",male,1960,12
+74,7,"Popovich, Pavel",male,1960,11
+73,5,"Nikolayev, Andriyan",male,1960,10
+72,1,"Titov, Gherman",male,1960,9
+71,0,"Gagarin, Yuri",male,1960,8
+76,18,"Komarov, Vladimir",male,1960,13
+78,23,"Leonov, Aleksei",male,1960,15
+90,49,"Armstrong, Neil A.",male,1962,27
+83,26,"Young, John W.",male,1962,20
+84,32,"McDivitt, James A.",male,1962,21
+85,34,"White, Edward H., II",male,1962,22
+86,35,"Conrad, Charles, Jr.",male,1962,23
+87,39,"Borman, Frank",male,1962,24
+88,41,"Lovell, James A., Jr.",male,1962,25
+89,45,"Stafford, Thomas P.",male,1962,26
+0,17,"Tereshkova, Valentina",female,1962,1
+95,61,"Aldrin, Edwin Eugene, Jr.",male,1963,32
+94,59,"Gordon, Richard F., Jr.",male,1963,31
+106,154,"Gubarev, Aleksei",male,1963,43
+105,153,"Dyomin, Lev",male,1963,42
+104,151,"Artyukhin, Yuri",male,1963,41
+103,122,"Dobrovolski, Georgi",male,1963,40
+102,110,"Bean, Alan Lavern",male,1963,39
+101,103,"Filipchenko, Anatoly",male,1963,38
+107,164,"Zholobov, Vitali",male,1963,44
+99,89,"Shatalov, Vladimir",male,1963,36
+100,98,"Schweickart, Russell L.",male,1963,37
+92,54,"Cernan, Eugene A.",male,1963,29
+91,51,"Scott, David R.",male,1963,28
+93,57,"Collins, Michael",male,1963,30
+97,64,"Cunningham, Ronnie Walter",male,1963,34
+98,88,"Anders, William Alison",male,1963,35
+96,63,"Eisele, Donn F.",male,1963,33
+108,20,"Feoktistov, Konstantin",male,1964,45
+109,21,"Yegorov, Boris",male,1964,46
+110,87,"Beregovoi, Georgi",male,1964,47
+111,139,"Lazarev, Vasili",male,1964,48
+113,134,"Kerwin, Joseph P.",male,1965,50
+114,137,"Garriott, Owen K.",male,1965,51
+115,145,"Gibson, Edward G.",male,1965,52
+117,152,"Sarafanov, Gennadi",male,1965,54
+118,167,"Zudov, Vyacheslav",male,1965,55
+119,168,"Rozhdestvensky, Valery",male,1965,56
+120,169,"Glazkov, Yuri",male,1965,57
+121,202,"Kizim, Leonid",male,1965,58
+112,131,"Schmitt, Harrison H.",male,1965,49
+116,146,"Klimuk, Pyotr",male,1965,53
+133,135,"Lousma, Jack R.",male,1966,70
+139,352,"Lind, Don L.",male,1966,76
+138,280,"McCandless, Bruce, II",male,1966,75
+137,216,"Overmyer, Robert F.",male,1966,74
+136,159,"Brand, Vance D.",male,1966,73
+135,144,"Pogue, William R.",male,1966,72
+134,143,"Carr, Gerald P.",male,1966,71
+132,132,"Weitz, Paul J.",male,1966,69
+130,129,"Duke, Jr. Charles Moss",male,1966,67
+131,130,"Evans, Ronald E.",male,1966,68
+128,125,"Irwin, James B.",male,1966,65
+127,124,"Worden, Alfred M.",male,1966,64
+126,118,"Mitchell, Edgar D.",male,1966,63
+125,117,"Roosa, Stuart A.",male,1966,62
+124,113,"Haise, Fred W., Jr.",male,1966,61
+123,112,"Swigert, John L., Jr.",male,1966,60
+122,73,"Engle, Joe H.",male,1966,59
+129,126,"Mattingly, Thomas K., II",male,1966,66
+143,218,"Allen, Joseph P.",male,1967,80
+144,220,"Lenoir, William B.",male,1967,81
+142,198,"Malyshev, Yuri",male,1967,79
+146,259,"Thornton, William E.",male,1967,83
+140,170,"Kovalyonok, Vladimir",male,1967,77
+145,225,"Musgrave, Franklin Story",male,1967,82
+141,190,"Lyakhov, Vladimir",male,1967,78
+148,370,"Henize, Karl G.",male,1967,85
+147,264,"Parker, Robert A. R.",male,1967,84
+149,371,"England, Anthony W.",male,1967,86
+150,94,"Yeliseyev, Aleksei",male,1968,87
+151,100,"Kubasov, Valeri",male,1968,88
+152,105,"Volkov, Vladislav",male,1968,89
+153,114,"Sevastyanov, Vitali",male,1968,90
+154,119,"Rukavishnikov, Nikolai",male,1968,91
+155,123,"Patsayev, Viktor",male,1968,92
+156,140,"Makarov, Oleg",male,1968,93
+157,156,"Grechko, Georgi",male,1968,94
+161,83,"Hartsfield, Henry W., Jr.",male,1969,98
+163,224,"Peterson, Donald H.",male,1969,100
+162,221,"Bobko, Karol J.",male,1969,99
+160,77,"Fullerton, Charles G.",male,1969,97
+159,75,"Truly, Richard H.",male,1969,96
+158,68,"Crippen, Robert L.",male,1969,95
+164,79,"Berezovoy, Anatoly",male,1970,101
+165,177,"Romanenko, Yuri",male,1970,102
+166,180,"Dzhanibekov, Vladimir",male,1970,103
+167,194,"Popov, Leonid",male,1970,104
+168,149,"Lebedev, Valentin",male,1972,105
+169,447,"Polyakov, Valeri",male,1972,106
+173,205,"Strekalov, Gennadi",male,1973,110
+170,165,"Aksyonov, Vladimir",male,1973,107
+171,173,"Ryumin, Valery",male,1973,108
+172,186,"Ivanchenkov, Aleksandr",male,1973,109
+174,185,Vladimir Remek,male,1976,111
+176,189,"Jahn, Sigmund",male,1976,113
+177,231,"Titov, Vladimir",male,1976,114
+175,188,Miroslaw Hermaszewske,male,1976,112
+181,913,"Kadenyuk, Leonid",male,1976,118
+178,382,"Vasyutin, Vladimir",male,1976,115
+179,383,"Volkov, Alexander",male,1976,116
+180,441,"Solovyev, Anatoly",male,1976,117
+183,440,"Levchenko, Anatoli",male,1977,120
+182,294,"Volk, Igor",male,1977,119
+215,332,"Buchli, James F.",male,1978,152
+214,330,"Onizuka, Ellison S.",male,1978,151
+213,327,"Shriver, Loren J.",male,1978,150
+212,322,"Walker, David Mathieson",male,1978,149
+6,362,"Lucid, Shannon W.",female,1978,7
+211,311,"McBride, Jon A.",male,1978,148
+210,301,"Hawley, Steven A.",male,1978,147
+209,298,"Mullane, Richard M.",male,1978,146
+208,295,"Coats, Michael L.",male,1978,145
+207,291,"Nelson, George D.",male,1978,144
+216,337,"Williams, Donald E.",male,1978,153
+217,342,"Griggs, S. David",male,1978,154
+221,358,"Nagel, Steven R.",male,1978,158
+219,349,"Gregory, Frederick D.",male,1978,156
+220,355,"Creighton, John O.",male,1978,157
+222,372,"Acton, Loren Wilbur",male,1978,159
+223,373,"Bartoe, John-David Francis",male,1978,160
+224,374,"Covey, Richard O.",male,1978,161
+225,402,"Ockels, Wubbo Johannes",male,1978,162
+226,432,"Laveykin, Aleksandr",male,1978,163
+227,433,"Viktorenko, Aleksandr",male,1978,164
+228,438,"Manarov, Musa",male,1978,165
+229,506,"Balandin, Aleksandr",male,1978,166
+230,643,"Nicollier, Claude",male,1978,167
+218,343,"Hoffman, Jeffrey A.",male,1978,155
+206,289,"Van Hoften, James D. A.",male,1978,143
+203,282,"Solovyov, Vladimir",male,1978,140
+204,286,"Scobee, Francis R.",male,1978,141
+4,326,"Fisher, Anna L.",female,1978,5
+3,312,"Sullivan, Kathryn D.",female,1978,4
+2,306,"Resnik, Judith A.",female,1978,3
+1,240,"Ride, Sally K.",female,1978,2
+184,65,"Savinykh, Viktor",male,1978,121
+185,67,Jugderdemidiin Gurragchaa,male,1978,122
+186,72,Dumitru Prunariu,male,1978,123
+187,86,"Serebrov, Aleksandr",male,1978,124
+188,193,Georgi Ivanov,male,1978,125
+189,197,Bertalan Farkas,male,1978,126
+205,288,"Hart, Terry J.",male,1978,142
+190,201,Arnaldo Tamayo Mendez,male,1978,127
+192,238,"Fabian, John M.",male,1978,129
+193,242,"Thagard, Norman E.",male,1978,130
+194,247,"Aleksandrov, Aleksandr",male,1978,131
+195,249,"Brandenstein, Daniel C.",male,1978,132
+196,253,"Bluford, Guion S., Jr.",male,1978,133
+197,257,"Gardner, Dale A.",male,1978,134
+198,261,"Shaw, Brewster H., Jr.",male,1978,135
+199,268,"Merbold, Ulf",male,1978,136
+200,271,"Gibson, Robert L.",male,1978,137
+201,276,"McNair, Ronald E.",male,1978,138
+202,278,"Stewart, Robert L.",male,1978,139
+191,235,"Hauck, Frederick H.",male,1978,128
+5,339,"Seddon, Margaret Rhea",female,1978,6
+232,336,"Payton, Gary Eugene",male,1979,169
+231,200,Pham Tuan,male,1979,168
+238,381,"Fisher, William F.",male,1980,175
+7,214,"Savitskaya, Svetlana",female,1980,8
+250,469,"Bagian, James P.",male,1980,187
+249,467,"Springer, Robert C.",male,1980,186
+248,462,"Blaha, John E.",male,1980,185
+247,456,"Gardner, Guy S.",male,1980,184
+246,429,"Smith, Michael John",male,1980,183
+245,420,"Chang-Diaz, Franklin R.",male,1980,182
+244,416,"Bolden, Charles F., Jr.",male,1980,181
+243,414,"Spring, Sherwood C.",male,1980,180
+242,405,"Ross, Jerry L.",male,1980,179
+241,403,"O'Connor, Bryan D.",male,1980,178
+240,390,"Hilmers, David C.",male,1980,177
+234,315,"Leestma, David C.",male,1980,171
+235,367,"Baudry, Patrick",male,1980,172
+236,369,"Bridges, Roy D., Jr.",male,1980,173
+237,378,"Lounge, John M.",male,1980,174
+251,475,"Richards, Richard N.",male,1980,188
+239,386,"Grabe, Ronald J.",male,1980,176
+233,80,"Chrétien, Jean-Loup",male,1980,170
+8,395,"Dunbar, Bonnie J.",female,1980,9
+9,412,"Cleave, Mary L.",female,1980,10
+253,285,Rakesh Sharma,male,1982,190
+252,266,"Lichtenberg, Byron Kurt",male,1982,189
+254,394,"Pailes, William Arthur",male,1982,191
+255,400,"Furrer, Reinhard Alfred",male,1982,192
+256,401,"Messerschmid, Ernst Willi",male,1982,193
+10,579,"Hughes-Fulford, Millie Elizabeth",female,1983,11
+11,607,"Bondar, Roberta Lynn",female,1983,12
+257,284,"Atkov, Oleg",male,1983,194
+258,308,"Walker, Charles David",male,1983,195
+259,319,"Garneau, Marc Joseph Jean-Pierre",male,1983,196
+262,660,Steven MacLean,male,1983,199
+261,634,"Trinh, Eugene Huu-Chau",male,1983,198
+263,871,Robert Thirsk,male,1983,200
+264,900,Bjarni Tryggvason,male,1983,201
+260,353,"Lodewijk, van der Berg",male,1983,197
+270,471,"Lee, Mark C.",male,1984,207
+269,458,"Shepherd, William M.",male,1984,206
+268,430,"Jarvis, Gregory Bruce",male,1984,205
+267,428,"Nelson, William Clarence",male,1984,204
+286,608,"Kaleri, Aleksandr",male,1984,223
+285,578,"Gaffney, Andrew",male,1984,222
+284,571,"Gutierrez, Sidney M.",male,1984,221
+283,564,"Veach, Charles Lacy",male,1984,220
+282,555,"Hammond, L. Blaine, Jr.",male,1984,219
+279,535,"Durrance, Samuel Thornton",male,1984,216
+278,526,"Culbertson, Frank L., Jr.",male,1984,215
+277,507,"Casper, John H.",male,1984,214
+276,503,"Low, G. David",male,1984,213
+275,492,"Wetherbee, James D.",male,1984,212
+274,487,"Carter, Manley Lanier, Jr.",male,1984,211
+266,354,"Wang, Taylor Gun-Jin",male,1984,203
+272,481,"Brown, Mark N.",male,1984,209
+265,318,"Scully-Power, Paul Desmond",male,1984,202
+273,483,"McCulley, Michael J.",male,1984,210
+280,537,"Parise, Ronald Anthony",male,1984,217
+271,479,"Adamson, James C.",male,1984,208
+281,544,"Cameron, Kenneth D.",male,1984,218
+14,498,"Ivins, Marsha S.",female,1984,15
+13,488,"Thornton, Kathryn C.",female,1984,14
+12,484,"Baker, Ellen S.",female,1984,13
+299,551,"Apt, Jerome",male,1985,236
+16,547,"Godwin, Linda M.",female,1985,17
+15,431,"McAuliffe, Sharon Christa Corrigan",female,1985,16
+287,348,"Garn, Edwin Jacob",male,1985,224
+288,368,"Al-saud, Sultan bin Salman",male,1985,225
+289,415,"Neri Vela, Rodolfl",male,1985,226
+290,427,"Cenker, Robert Joseph",male,1985,227
+291,437,"Faris, M. Achmed",male,1985,228
+292,450,"Krikalev, Sergei",male,1985,229
+293,511,"Thuot, Pierre J.",male,1985,230
+294,514,"Manakov, Gennadi",male,1985,231
+295,516,"Cabana, Robert D.",male,1985,232
+17,573,"Jernigan, Tamara E.",female,1985,18
+296,529,"Meade, Carl J.",male,1985,233
+298,539,"Afanasyev, Viktor Mikhaylovich",male,1985,235
+300,566,"Hieb, Richard J.",male,1985,237
+301,569,"Artsebarsky, Anatoly",male,1985,238
+302,580,"Baker, Michael A.",male,1985,239
+303,588,"Henricks, Terence T.",male,1985,240
+304,601,"Oswald, Stephen S.",male,1985,241
+305,614,"Duffy, Brian",male,1985,242
+306,624,"Frimout, David",male,1985,243
+307,638,"Tognini, Michel",male,1985,244
+308,658,"Mohri, Mamoru",male,1985,245
+309,704,"Haigneré, Jean-Pierre",male,1985,246
+310,780,"Clervoy, Jean-François",male,1985,247
+311,870,"Favier, Jean-Jacques",male,1985,248
+312,911,"Doi, Takao",male,1985,249
+297,532,"Gemar, Charles D.",male,1985,234
+18,762,"Mukai, Chiaki",female,1985,19
+19,875,"André-Deshays, Claudie (Haigneré)",female,1985,20
+329,702,"Tsibliyev, Vasili",male,1987,266
+320,604,"Readdy, William F.",male,1987,257
+319,597,"Runco, Mario, Jr.",male,1987,256
+318,592,"Voss, James S.",male,1987,255
+317,584,"Reightler, Kenneth S., Jr.",male,1987,254
+316,561,"McMonagle, Donald R.",male,1987,253
+315,557,"Harbaugh, Gregory J.",male,1987,252
+314,522,"Akers, Thomas D.",male,1987,251
+313,520,"Melnick, Bruce E.",male,1987,250
+323,628,"Bowersox, Kenneth D.",male,1987,260
+330,740,"Malenchenko, Yuri",male,1987,267
+334,968,"Thiele, Gerhard",male,1987,271
+333,873,"Korzun, Valery",male,1987,270
+322,625,"Chilton, Kevin P.",male,1987,259
+332,813,"Gidzenko, Yuri",male,1987,269
+20,654,"Davis, Nancy Jan",female,1987,21
+21,657,"Jemison, Mae C.",female,1987,22
+324,635,"Avdeyev, Sergei",male,1987,261
+325,640,"Allen, Andrew M.",male,1987,262
+321,618,"Foale, C. Michael",male,1987,258
+326,648,"Brown, Curtis L., Jr.",male,1987,263
+327,686,"Walter, Ulrich",male,1987,264
+328,687,"Schlegel, Hans",male,1987,265
+331,802,"Dezhurov, Vladimir N.",male,1987,268
+336,600,"Hennen, Thomas John",male,1988,273
+335,449,"Mohmand, Abdul Ahad",male,1988,272
+344,959,"Tokarev, Valeri",male,1989,281
+345,982,"Morukov, Boris",male,1989,282
+342,852,"Onufrienko, Yuri",male,1989,279
+341,804,"Budarin, Nikolai",male,1989,278
+340,730,Yuri Vladimirovich Usachyov,male,1989,277
+339,670,"Poleshchuk, Aleksandr",male,1989,276
+338,587,"Viehbock, Franz",male,1989,275
+23,774,"Kondakova, Yelena V.",female,1989,24
+337,543,"Akiyama, Toyohiro",male,1989,274
+22,570,Helen Sharman,female,1989,23
+343,941,"Padalka, Gennady",male,1989,280
+361,746,"Musabayev, Talgat",male,1990,298
+362,749,"Halsell, James D., Jr.",male,1990,299
+360,736,"Jones, Thomas D.",male,1990,297
+352,693,"Wisoff, Peter J. K.",male,1990,289
+358,725,"Wolf, David A.",male,1990,295
+357,721,"McArthur, William S., Jr.",male,1990,294
+356,718,"Searfoss, Richard A.",male,1990,293
+355,714,"Walz, Carl E.",male,1990,292
+354,710,"Bursch, Daniel W.",male,1990,291
+353,706,"Newman, James H.",male,1990,290
+351,684,"Harris, Bernard A., Jr.",male,1990,288
+350,680,"Precourt, Charles J., Jr.",male,1990,287
+349,671,"Cockrell, Kenneth D.",male,1990,286
+348,662,"Clifford, Michael R.",male,1990,285
+347,633,"DeLucas, Lawrence James",male,1990,284
+359,734,"Sega, Ronald M.",male,1990,296
+346,613,"Flade, Klaus-Dietrich",male,1990,283
+364,758,"Thomas, Donald A.",male,1990,301
+365,766,"Wilcutt, Terrence W.",male,1990,302
+24,665,"Helms, Susan J.",female,1990,25
+25,676,"Ochoa, Ellen",female,1990,26
+26,689,"Currie, Nancy J.",female,1990,27
+27,697,"Voss, Janice E.",female,1990,28
+28,788,"Collins, Eileen M.",female,1990,29
+366,792,"Gregory, William G.",male,1990,303
+367,878,"Ewald, Reinhold",male,1990,304
+368,920,"Sharipov, Salizhan",male,1990,305
+369,922,"Eyharts, Léopold",male,1990,306
+370,969,"Zalyotin, Sergei",male,1990,307
+371,1030,"Perrin, Philippe",male,1990,308
+363,754,"Chiao, Leroy",male,1990,300
+373,932,"Buckey, Jay Clark Jr.",male,1991,310
+372,586,"Aubakirov, Toktar",male,1991,309
+400,1087,Christer Fuglesang,male,1992,337
+398,947,"Duque, Pedro",male,1992,335
+397,930,"Williams, Dafydd Rhys",male,1992,334
+395,877,"Lazutkin, Aleksandr",male,1992,332
+394,869,"Brady, Charles E., Jr.",male,1992,331
+393,865,"Linnehan, Richard M.",male,1992,330
+392,861,"Thomas, Andrew S. W.",male,1992,329
+391,858,"Cheli, Maurizio",male,1992,328
+390,854,"Horowitz, Scott J.",male,1992,327
+389,849,"Barry, Daniel T.",male,1992,326
+388,845,"Wakata, Koichi",male,1992,325
+387,843,"Scott, Winston E.",male,1992,324
+380,807,Kregel Kevin R.,male,1992,317
+385,836,Chris Hadfield,male,1992,322
+384,830,"Lopez-Alegria, Michael E.",male,1992,321
+383,822,"Rominger, Kent V.",male,1992,320
+382,818,"Gernhardt, Michael L.",male,1992,319
+381,816,"Reiter, Thomas",male,1992,318
+379,793,"Grunsfeld, John M.",male,1992,316
+378,783,"Parazynski, Scott E.",male,1992,315
+377,776,"Tanner, Joseph R.",male,1992,314
+376,770,"Smith, Steven L.",male,1992,313
+375,764,"Linenger, Jerry M.",male,1992,312
+374,729,"Fettman, Martin Joseph",male,1992,311
+386,839,"Jett, Brent W.",male,1992,323
+399,1034,"Treshchov, Sergei",male,1992,336
+396,890,"Vinogradov, Pavel",male,1992,333
+29,798,"Lawrence, Wendy B.",female,1992,30
+30,811,"Weber, Mary E.",female,1992,31
+31,827,"Coleman, Catherine G.",female,1992,32
+32,957,"Payette, Julie",female,1992,33
+409,1005,"Tyurin, Mikhail",male,1994,346
+408,924,"Altman, Scott D.",male,1994,345
+407,918,"Anderson, Michael P.",male,1994,344
+406,915,"Reilly, James F.",male,1994,343
+405,901,"Bloomfield, Michael J.",male,1994,342
+403,893,"Curbeam, Robert L., Jr.",male,1994,340
+402,835,"Sacco, Albert Jr.",male,1994,339
+401,834,"Leslie, Fred Weldon",male,1994,338
+404,896,"Robinson, Stephen K.",male,1994,341
+33,909,"Chawla, Kalpana",female,1994,34
+410,881,"Crouch, Roger Keith",male,1995,347
+412,885,"Noriega, Carlos I.",male,1995,349
+411,883,"Linteris, Gregory Thomas",male,1995,348
+415,914,"Edwards, Joe F., Jr.",male,1995,352
+34,879,"Kilrain-Still, Susan L.",female,1995,35
+35,928,"Hire, Kathryn P.",female,1995,36
+36,938,"Kavandi, Janet L.",female,1995,37
+37,983,"Melroy, Pamela A.",female,1995,38
+416,934,"Gorie, Dominic L.",male,1995,353
+417,950,"Sturckow, Frederick W.",male,1995,354
+418,955,"Husband, Rick D.",male,1995,355
+419,961,"Ashby, Jeffrey S.",male,1995,356
+413,887,"Lu, Edward T.",male,1995,350
+414,904,"Lindsey, Steven W.",male,1995,351
+426,986,"Polansky, Mark L.",male,1996,363
+440,1028,"Lockhart, Paul S.",male,1996,377
+439,1023,"Morin, Lee M.",male,1996,376
+438,1020,"Walheim, Rex J.",male,1996,375
+437,1018,"Frick, Stephen N.",male,1996,374
+436,1016,"Massimino, Michael J.",male,1996,373
+435,1015,"Carey, Duane G.",male,1996,372
+434,1013,"Tani, Daniel M.",male,1996,371
+433,1009,"Kelly, Mark E.",male,1996,370
+427,989,"Kelly, James M.",male,1996,364
+432,1008,"Kozeyev, Konstantin",male,1996,369
+430,999,"Hobaugh, Charles O.",male,1996,367
+429,992,"Phillips, John L.",male,1996,366
+420,859,"Guidoni, Umberto",male,1996,357
+421,933,"Pawelczyk, James Anthony",male,1996,358
+422,964,"Kelly, Scott J.",male,1996,359
+423,971,"Williams, Jeffrey N.",male,1996,360
+428,991,"Richards, Paul W.",male,1996,365
+425,979,"Burbank, Daniel C.",male,1996,362
+431,1002,"Forrester, Patrick G.",male,1996,368
+424,975,"Mastracchio, Richard A.",male,1996,361
+42,1075,"Wilson, Stephanie D.",female,1996,43
+441,1038,"Sellers, Piers J.",male,1996,378
+43,1081,"Stefanyshyn-Piper, Heidemarie M.",female,1996,44
+44,1089,"Higginbotham, Joan E.",female,1996,45
+453,1228,"Revin, Sergei",male,1996,390
+41,1074,"Nowak, Lisa M.",female,1996,42
+451,1092,"Kotov, Oleg",male,1996,388
+450,1065,"Camarda, Charles J.",male,1996,387
+449,1063,"Noguchi, Soichi",male,1996,386
+448,1062,"Shargin, Yuri",male,1996,385
+452,1135,"Kononenko, Oleg D.",male,1996,389
+446,1055,"Ramon, Ilan",male,1996,383
+38,1031,"Whitson, Peggy A.",female,1996,39
+39,1035,"Magnus, Sandra H.",female,1996,40
+447,1057,"Fincke, E. Michael",male,1996,384
+442,1048,"Herrington, John B.",male,1996,379
+443,1049,"Pettit, Donald R.",male,1996,380
+444,1052,"McCool, William C.",male,1996,381
+445,1053,"Brown, David M.",male,1996,382
+40,1054,"Clark, Laurel B.",female,1996,41
+454,946,"Baturin, Yuri",male,1997,391
+455,995,"Lonchakov, Yuri",male,1997,392
+456,1041,"Yurchikhin, Fyodor",male,1997,393
+458,1179,"Romanenko, Roman",male,1997,395
+459,1194,"Surayev, Maksim",male,1997,396
+460,1205,"Skvortsov, Aleksandr Jr.",male,1997,397
+461,1214,"Skripochka, Oleg",male,1997,398
+457,1132,"Volkov, Sergei",male,1997,394
+462,1217,"Kondratyev, Dmitri",male,1997,399
+467,1060,"Kuipers, Andre",male,1998,404
+472,1085,"Patrick, Nicholas J. M.",male,1998,409
+471,1084,"Oefelein, William A.",male,1998,408
+470,1078,"Ferguson, Christopher J.",male,1998,407
+469,1071,"Fossum, Michael E.",male,1998,406
+468,1070,"Pontes, Marcos Cesar",male,1998,405
+490,1208,"Korniyenko, Mikhail",male,1998,427
+466,1046,"De Winne, Frank",male,1998,403
+465,1024,"Vittori, Roverto",male,1998,402
+464,954,"Bella, Ivan",male,1998,401
+463,647,Franco Malerba,male,1998,400
+475,1102,"Olivas, John D.",male,1998,412
+45,1090,"Williams, Sunita L.",female,1998,46
+46,1106,"Caldwell, Tracy E.",female,1998,47
+473,1097,"Archambault, Lee J.",male,1998,410
+47,1110,"Morgan, Barbara R.",female,1998,48
+477,1112,"Zamka, George D.",male,1998,414
+478,1114,"Wheelock, Douglas H.",male,1998,415
+479,1116,"Nespoli, Paolo A.",male,1998,416
+480,1119,"Poindexter, Alan G.",male,1998,417
+481,1121,"Melvin, Leland D.",male,1998,418
+482,1123,"Love, Stanley G.",male,1998,419
+483,1124,"Johnson, Gregory H.",male,1998,420
+484,1128,"Foreman, Michael J.",male,1998,421
+485,1130,"Reisman, Garrett E.",male,1998,422
+486,1140,"Ham, Kenneth T.",male,1998,423
+487,1148,"Chamitoff, Gregory",male,1998,424
+488,1172,"Johnson, Gregory C.",male,1998,425
+489,1202,"Creamer, Timothy J.",male,1998,426
+476,1104,"Anderson, Clayton C.",male,1998,413
+474,1099,"Swanson, Steven R.",male,1998,411
+491,1146,"Hoshide, Akihiko",male,1999,428
+48,1212,"Yamazaki, Naoko",female,1999,49
+492,1222,"Furukawa, Satoshi",male,1999,429
+493,998,"Tito, Dennis Anthony",male,2000,430
+494,1108,"Drew, Alvin Benjamin",male,2000,431
+495,1126,"Behnken, Robert L.",male,2000,432
+496,1144,"Garan, Ronald J., Jr.",male,2000,433
+497,1156,"Boe, Eric A.",male,2000,434
+499,1163,"Antonelli, Dominic A.",male,2000,436
+500,1170,"Barratt, Michael R.",male,2000,437
+502,1176,"Feustel, Andrew J.",male,2000,439
+503,1181,"Hurley, Douglas G.",male,2000,440
+504,1187,"Kopra, Timothy L.",male,2000,441
+505,1189,"Ford, Kevin A.",male,2000,442
+506,1197,"Wilmore, Barry E.",male,2000,443
+507,1203,"Virts, Terry W., Jr.",male,2000,444
+501,1173,"Good, Michael T.",male,2000,438
+498,1158,"Bowen, Stephen G.",male,2000,435
+49,1142,"Nyberg, Karen L.",female,2000,50
+50,1175,"McArthur, K. Megan",female,2000,51
+51,1192,"Stott, Nicole P.",female,2000,52
+508,1027,"Shuttleworth, M. Richard",male,2001,445
+511,1220,"Borisenko, Andrei",male,2003,448
+510,1218,"Samokutyayev, Aleksandr",male,2003,447
+509,1056,"Yang, Liwei",male,2003,446
+514,1233,"Tarelkin, Yevgeni",male,2003,451
+515,1240,"Ryazanski, Sergei",male,2003,452
+516,1243,"Artemyev, Oleg",male,2003,453
+513,1226,"Ivanishin, Anatoli",male,2003,450
+512,1223,"Shkaplerov, Anton",male,2003,449
+517,1066,"Olsen, Gregory Hammond",male,2004,454
+519,1165,"Acaba, Joseph M.",male,2004,456
+520,1168,"Arnold, Richard R., II",male,2004,457
+521,1183,"Cassidy, Christopher J.",male,2004,458
+523,1191,"Hernandez, Jose M.",male,2004,460
+524,1199,"Bresnik, Randolph J.",male,2004,461
+525,1201,"Satcher, Robert L.",male,2004,462
+526,1210,"Dutton, James P.",male,2004,463
+518,1161,"Kimbrough, Robert S.",male,2004,455
+522,1185,"Marshburn, Thomas H.",male,2004,459
+52,1211,"Metcalf-Lindenburger, Dorothy M.",female,2004,53
+53,1213,"Walker, Shannon",female,2004,54
+527,1067,"Fei, Junlong",male,2005,464
+528,1068,Nie Haisheng,male,2005,465
+534,1261,"Ryzhikov, Sergey",male,2006,471
+532,1234,"Misurkin, Aleksandr",male,2006,469
+531,1231,"Novitski, Oleg",male,2006,468
+530,1111,"Shukor, Sheikh Muszaphar",male,2006,467
+529,1095,"Simonyi, Charles (Karoly)",male,2006,466
+533,1255,"Ovchinin, Aleksey",male,2006,470
+54,1083,"Ansari, Anousheh",female,2006,55
+55,1139,"Yi, Soyeon (Lee So-hyun)",female,2006,56
+56,1248,"Serova, Yelena",female,2006,57
+535,1155,"Garriott, Richard Allen",male,2007,472
+536,1150,"Zhai, Zhigang",male,2008,473
+537,1151,"Liu, Boming",male,2008,474
+538,1152,"Jing, Haipeng",male,2008,475
+546,1252,"Mogensen, Andreas",male,2009,483
+543,1246,"Gerst, Alexander",male,2009,480
+547,1254,"Peake, Timothy Nigel",male,2009,484
+548,1258,"Onishi, Takuya",male,2009,485
+549,1262,"Pesquet, Thomas",male,2009,486
+544,1250,"Yui, Kimiya",male,2009,481
+550,1263,"Fischer, Jack",male,2009,487
+545,1251,"Lindgren, Kjell Norwood",male,2009,482
+542,1245,"Wiseman, Gregory Reid",male,2009,479
+59,1268,"Auñón-Chancellor, Serena",female,2009,60
+540,1236,"Parmitano, Luca",male,2009,477
+539,1196,Guy Laliberte,male,2009,476
+551,1264,"Vande Hei, Mark",male,2009,488
+554,1271,"Saint-Jaques, David",male,2009,491
+553,1266,"Kanai, Norishige",male,2009,490
+57,1249,"Cristofretti, Samantha",female,2009,58
+58,1259,"Rubins, Kathleen",female,2009,59
+541,1242,"Hopkins, Michael Scott",male,2009,478
+552,1265,"Tingle, Scott",male,2009,489
+556,1267,"Prokopyev, Sergei",male,2010,493
+555,1260,"Chen, Dong",male,2010,492
+558,1253,Aidyn (Aydyn) Akanovich Aimbetov,male,2012,495
+557,1229,"Liu, Wang",male,2012,494
+60,1230,"Liu, Yang",female,2012,61
+560,1239,"Wang, Yapi",male,2013,497
+561,1269,"Hague, Tyler",male,2013,498
+559,1238,"Zhang, Xiaoguang",male,2013,496
+62,1273,"Koch, Christina",female,2013,63
+562,1274,"Morgan, Andrew",male,2013,499
+61,1272,"McClain, Anne Charlotte",female,2013,62
+63,1275,"Meir, Jessica",female,2013,64
+563,1276,"Al Mansoori, Hazzaa",male,2018,500
