@@ -1,3 +1,5 @@
+import math
+
 import numpy as np
 import pandas as pd
 
@@ -72,13 +74,26 @@ df_coordenates = df_coordenates.rename(columns={"Country": "nationality"})
 # print(np.sort(df_coordenates["Country"].unique()))
 
 df_map = pd.merge(df, df_coordenates, how="left", on="nationality")
+
 # Add random variation to each point to set small diferent coordenates. Better for UX
-df_map['Latitude'] = df_map['Latitude'] + np.random.uniform(low=-5, high=5, size=len(df_map))
-df_map['Longitude'] = df_map['Longitude'] + np.random.uniform(low=-5, high=5, size=len(df_map))
+# df_map['Latitude'] = df_map['Latitude'] + np.random.uniform(low=-3, high=3, size=len(df_map))  # TODO
+# df_map['Longitude'] = df_map['Longitude'] + np.random.uniform(low=-3, high=3, size=len(df_map))  # TODO
 # df_map['fake_mission_end'] = df_map['year_of_mission'] + 1  # Add
 
 # Create output dataframe
 df_map = df_map[['mission_title', 'hours_mission', 'year_of_mission', 'nationality', 'Latitude', 'Longitude']]
+
+# Circle size. Increment at each astronaut from same country
+df_map = df_map.sort_values(by=['year_of_mission', 'nationality'])
+df_map["total_astronauts"] = 1
+dict_total_astronauts = {country: 0 for country in astronaut_nationalities}
+for index, row in df_map.iterrows():
+    dict_total_astronauts[row['nationality']] += 1
+    df_map.loc[index, 'total_astronauts'] = dict_total_astronauts[row['nationality']]
+print(df_map[['nationality', 'total_astronauts']].head(15))
+
+# Add a end date for animation purposes
+df_map['end_date'] = (df_map['year_of_mission']).max()
 
 # Add small variations to
 df_map.to_csv('./data/df_map.csv')
@@ -106,7 +121,7 @@ for row in range(total_females + 1, len(df_tmp)):
 df_tmp = df_tmp.sort_values(by=['year_of_selection'])
 max_year = (df_tmp['year_of_selection']).max()
 min_year = (df_tmp['year_of_selection']).min()
-print(f'{min_year} {max_year}')
+# print(f'{min_year} {max_year}')
 
 # Create a column for each sex
 years_range = range(min_year, max_year + 1)
@@ -116,6 +131,48 @@ df_area_chart['female'] = 0
 previous_male_count = 0
 previous_female_count = 0
 for year in years_range:
-    # TODO: per cada any, afegir maxim de total_astronauts de cada sexe a la seva columna o be valor anterior. Actualitzar valor anterior tmb
+    # Get max value of total astronauts per year (nan if not found)
+    year_df = df_tmp[df_tmp['year_of_selection'] == year]
+    male_year_df = year_df[year_df['sex'] == 'male']
+    female_year_df = year_df[year_df['sex'] == 'female']
+    max_value_male = male_year_df['total_astronauts'].max()
+    max_value_female = female_year_df['total_astronauts'].max()
+    # Max value for current year is foun vale or previous value if nan. update previous value
+    max_value_male = previous_male_count if math.isnan(max_value_male) else max_value_male
+    max_value_female = previous_female_count if math.isnan(max_value_female) else max_value_female
+    previous_male_count = max_value_male
+    previous_female_count = max_value_female
+    # Assign new values
+    df_area_chart.loc[df_area_chart['Year'] == year, 'male'] = max_value_male
+    df_area_chart.loc[df_area_chart['Year'] == year, 'female'] = max_value_female
+    # print(f'Year: {year}, male: {max_value_male}, female: {max_value_female}')
+
+# print(df_area_chart.head())
 
 df_area_chart.to_csv('./data/df_area_chart.csv')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
