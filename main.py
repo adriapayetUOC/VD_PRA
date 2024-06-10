@@ -81,10 +81,11 @@ df_map = pd.merge(df, df_coordenates, how="left", on="nationality")
 # df_map['fake_mission_end'] = df_map['year_of_mission'] + 1  # Add
 
 # Create output dataframe
-df_map = df_map[['mission_title', 'hours_mission', 'year_of_mission', 'nationality', 'Latitude', 'Longitude']]
+df_map = df_map[['name', 'year_of_selection', 'nationality', 'Latitude', 'Longitude']]
+df_map = df_map.drop_duplicates()
 
 # Circle size. Increment at each astronaut from same country
-df_map = df_map.sort_values(by=['year_of_mission', 'nationality'])
+df_map = df_map.sort_values(by=['year_of_selection', 'nationality'])
 df_map["total_astronauts"] = 1
 dict_total_astronauts = {country: 0 for country in astronaut_nationalities}
 for index, row in df_map.iterrows():
@@ -93,7 +94,7 @@ for index, row in df_map.iterrows():
 print(df_map[['nationality', 'total_astronauts']].head(15))
 
 # Add a end date for animation purposes
-df_map['end_date'] = (df_map['year_of_mission']).max()
+df_map['end_date'] = (df['year_of_mission']).max()
 
 # Add small variations to
 df_map.to_csv('./data/df_map.csv')
